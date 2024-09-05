@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 159.46 159.46">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Gradiente_sem_nome_324);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #8c271e;
+      }
+
+      .cls-3 {
+        fill: url(#Gradiente_sem_nome_51);
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        opacity: .3;
+      }
+
+      .cls-4 {
+        fill: url(#Gradiente_sem_nome_53);
+      }
+
+      .cls-5 {
+        fill: url(#Gradiente_sem_nome_52);
+      }
+
+      .cls-6 {
+        fill: url(#Gradiente_sem_nome_54);
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome_324" data-name="Gradiente sem nome 324" x1="-1043.44" y1="2173.29" x2="-947.71" y2="2173.29" gradientTransform="translate(-753.04 -2161) rotate(-45)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c8992e"/>
+      <stop offset=".15" stop-color="#b57e10"/>
+      <stop offset=".43" stop-color="#f9df7b"/>
+      <stop offset=".59" stop-color="#fff3a6"/>
+      <stop offset=".73" stop-color="#f9df7b"/>
+      <stop offset=".93" stop-color="#b57e10"/>
+      <stop offset=".94" stop-color="#bb8619"/>
+      <stop offset="1" stop-color="#cda035"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_52" data-name="Gradiente sem nome 52" x1="-3587.19" y1="-2628.4" x2="-3588.17" y2="-2738.04" gradientTransform="translate(-4412.84 694.78) rotate(135)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset=".82" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_53" data-name="Gradiente sem nome 53" x1="178.39" y1="-1670.37" x2="177.41" y2="-1780.01" gradientTransform="translate(-1290.45 1232.19) rotate(45)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset=".81" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_54" data-name="Gradiente sem nome 54" x1="-1196.53" y1="2191.1" x2="-1197.51" y2="2081.46" gradientTransform="translate(-526.06 -2252.77) rotate(-45)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset=".82" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_51" data-name="Gradiente sem nome 51" x1="-4736.72" y1="1266.97" x2="-4737.7" y2="1157.33" gradientTransform="translate(-4102.61 -2471.23) rotate(-135)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset=".82" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Camada_1-2" data-name="Camada 1">
+    <g>
+      <path class="cls-1" d="M0,0c18.69,18.69,18.69,49,0,67.69l45.88,45.88,33.85-33.85L0,0h0ZM159.46,91.76l-45.88-45.88-33.85,33.85,79.73,79.73h0c-18.69-18.69-18.69-49,0-67.69Z"/>
+      <path class="cls-2" d="M0,159.46h0s79.73-79.73,79.73-79.73l33.85,33.85-45.88,45.88c-18.69-18.69-49-18.69-67.69,0Z"/>
+      <path class="cls-2" d="M79.73,79.73l-33.85-33.85L91.76,0c18.69,18.69,49,18.69,67.69,0h0s-79.73,79.73-79.73,79.73Z"/>
+      <path class="cls-5" d="M79.73,79.73l-33.85,33.85-4.72-4.72C61.68,88.33,18.69,18.69,0,0h0s79.73,79.73,79.73,79.73Z"/>
+      <path class="cls-4" d="M79.73,79.73l33.85,33.85-4.72,4.72C88.33,97.77,18.69,140.76,0,159.46h0s79.73-79.73,79.73-79.73Z"/>
+      <path class="cls-6" d="M79.73,79.73l33.85-33.85,4.72,4.72c-23.05,23.05,22.47,90.16,41.16,108.85h0s-79.73-79.73-79.73-79.73Z"/>
+      <path class="cls-3" d="M79.73,79.73l-33.85-33.85,4.72-4.72C73.66,64.21,140.76,18.69,159.46,0h0s-79.73,79.73-79.73,79.73Z"/>
+    </g>
+  </g>
+</svg>
