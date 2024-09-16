@@ -11,13 +11,12 @@
     <div class="row">
         <div class="xl-6 tab-12 column">
             <h4 class="h-add-bottom no-margin">Desenvolvemos, implantamos e administramos:</h4>
-                <ul class="disc pt5">
-                    <li class="lead2"><b>Projetos:</b> Que podem ser desenvolvidos por nós e ou projetos de clientes / parceiros, onde faremos toda análise técnica e de pesquisa, juntamente com a consultoria e assessoria, para o desenvolvimento do mesmo;</li><br>
-	                <li class="lead2"><b>Produtos:</b> Com o melhor custo x benefícios, qualidade e durabilidade</li><br>
-	                <li class="lead2"><b>Negócios e Serviços:</b> Negócios pequenos, médios, grandes e bons, melhores; especializados, rápidos e precisos;</li><br>
-	                <li class="lead2"><b>Operações:</b> Financeiras internacionais e Nacionais, tributárias e contábeis;</li>
-                </ul><br>
-                <p class="lead">Trabalhamos com total transparência em todos os níveis corporativos, planejamentos estratégico, técnico analítico e multisetorial, capacitamos, estimulamos e promovemos o desenvolvimento dos nossos clientes e parceiros.</p>
+            <p class="pt5 lead linecorret text-just pmnone fw300" style="text-align: justify;">
+            Desenvolvemos projetos próprios e para clientes/parceiros, realizando toda a análise técnica e pesquisa necessária, além de oferecer consultoria e assessoria para o desenvolvimento dos mesmos.<br><br> Nossos produtos são oferecidos com o melhor custo-benefício, qualidade e durabilidade. Atuamos em negócios de diferentes tamanhos (pequenos, médios e grandes), com serviços especializados, rápidos e precisos. Em operações, gerenciamos aspectos financeiros internacionais e nacionais, tributários e contábeis.<br><br> Trabalhamos com total transparência em todos os níveis corporativos, oferecendo planejamento estratégico, técnico, analítico e multisetorial, além de capacitarmos, estimulamos e promovemos o desenvolvimento dos nossos clientes e parceiros.
+
+
+            </p>
+
         </div>
 
         <div class="xl-6 tab-12 column">
@@ -38,18 +37,18 @@
         </div>
 
         <div class="xl-6 tab-12 column">
-            <h4 class="h-add-bottom no-margin">As especialidades e atribuições do <b>INSTITUTO AION DO BRASIL</b>:</h4>
-                <d1 class="dictionary-style pt5">
-                    <dd class=" pt5"><b>Consultoria e assessoria técnica</b>, financeira, para a captação e investimentos;</dd><br>
-                    <dd class=""><b>Consultoria e assessoria técnica</b>, mercadológica;</dd><br>
-                    <dd class=""><b>Consultoria e assessoria técnica</b>, contábil;</dd><br>
-                    <dd class=""><b>Consultoria e assessoria técnica</b>, tributária;</dd><br>
-                    <dd class=""><b>Consultoria e assessoria técnica</b>, em mercado de capitais;</dd><br>
-                    <dd class=""> <b>Consultoria e assessoria técnica</b>, em planejamento estratégico corporativo;</dd><br>
-                    <dd class=""><b>Consultoria e assessoria técnica</b>, na criação, montagem e administração e gestão corporativa de Empresas e Instituições;</dd><br>
-                    <dd class=""><b>Consultoria e assessoria técnica</b>, na criação, montagem e administração e gestão corporativa de produtos e serviços;</dd><br>
-                    <dd class=""><b>Consultoria e assessoria técnica</b>, na criação, montagem e administração e gestão corporativa de departamentos comerciais, para a colocação de produtos e serviços; e</dd><br>
-                    <dd class="">Outros.</dd><br>
+            <h4 class="h-add-bottom no-margin">As especialidades e atribuições do <b>INSTITUTO AION DO BRASIL</b>. Consultoria e assessoria técnica de :</h4>
+                <d1 class="dictionary-style pt5 ">
+                    <dd class="lead">Financeira, para a captação e investimentos;</dd>
+                    <dd class="lead">Mercadológica;</dd>
+                    <dd class="lead">Contábil;</dd>
+                    <dd class="lead">Tributária;</dd>
+                    <dd class="lead">Em mercado de capitais;</dd>
+                    <dd class="lead">Em planejamento estratégico corporativo;</dd>
+                    <dd class="lead">Na criação, montagem e administração e gestão corporativa de Empresas e Instituições;</dd>
+                    <dd class="lead">Na criação, montagem e administração e gestão corporativa de produtos e serviços;</dd>
+                    <dd class="lead">Na criação, montagem e administração e gestão corporativa de departamentos comerciais, para a colocação de produtos e serviços; e</dd>
+                    <dd class="lead">Outros.</dd>
                 </d1>
         </div>
     </div> 
@@ -74,18 +73,14 @@
             </figure>
         </div>
         <div class="xl-6 tab-12 column">
-            <p class="lead">
+            <p class="lead pt5 lead linecorret text-just pmnone">
             <mark>Nós enxergamos os problemas</mark>, como situações com oportunidades e possibilidades infinitas, <mark>para criar soluções e impulsionar mudanças</mark>, que apresentem o sentido  da vida.<br>
             Pois sabemos, que nos momentos mais difíceis, são de pessoas de confiança, capacitadas para escutar os problemas, investigar, descobrir e resolver, que precisamos  ter por perto para contar. <br>
             Ao fazermos isso, estamos ampliando a nossa resiliência e motivando as pessoas a acreditarem, que as soluções só nascem quando há coragem para correr riscos e desbravar mares. <br>
-            Ao lidar com desafios estamos  espalhando a semente da esperança, de que para toda dor, há um remédio e que o <b class="white-text">TEMPO</b> é especialista em curar ou amenizar.
+            Ao lidar com desafios estamos  espalhando a semente da esperança, de que para toda dor, há um remédio e que o <b class="white-text">TEMPO</b> é especialista em curar ou amenizar. Realizar consultorias é indicar aos nossos clientes os caminhos.
+            E  atuar com assessorias é estar apto, a caminhar junto guiando os passos, tarefas que exigem constante aprimoramento técnico da nossa equipe, para ofertar o melhor em todo TEMPO.
             </p>
         </div>
-        <p class="lead">Realizar consultorias é indicar aos nossos clientes os caminhos.
-
- 
-
-E  atuar com assessorias é estar apto, a caminhar junto guiando os passos, tarefas que exigem constante aprimoramento técnico da nossa equipe, para ofertar o melhor em todo TEMPO.</p>
     </div>
 </section>
 

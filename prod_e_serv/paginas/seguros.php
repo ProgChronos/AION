@@ -8,21 +8,15 @@
 
     BGSYellow('seg02_1670961261.webp');
 ?>
+<h4 class="no-margin">Atuação nos produtos e serviços:</h4>
 
-<h4 class="text-center no-margin">Atuação nos produtos e serviços:</h4>
+<p class="pt5 lead linecorret text-just pmnone fw300">
 
-            <ul class="disc pt5">
-        
-    <li class="lead">Garantias</li><br>
-    <li class="lead">Seguro de Vida;</li><br>
-    <li class="lead">Seguro de Saúde;</li><br>
-    <li class="lead">Seguro Patrimonial;</li><br>
-    <li class="lead">Seguro Financeiro.</li>
-        </ul>
-       
+Na Aion, oferecemos uma ampla variedade de <b>garantias</b> para proporcionar segurança e tranquilidade em todos os aspectos da sua vida e dos seus negócios. Nossas soluções incluem <b>seguro de vida</b>, para proteger o futuro de sua família; <b>seguro de saúde</b>, garantindo acesso à assistência médica de qualidade; <b>seguro patrimonial</b>, que protege seu patrimônio contra imprevistos; e <b>seguro financeiro</b>, para assegurar estabilidade em suas operações financeiras.<br><br>
 
+Nosso compromisso é oferecer proteção completa e personalizada, alinhada às suas necessidades e objetivos, permitindo que você se concentre em crescer e prosperar com confiança.
+</p>
 
-        </div>
 
 <?php
 Bclose();
@@ -36,12 +30,11 @@ Bclose();
     <div class="row">
         <div class="xl-6 tab-12 column" > 
         <h3 class="white-text no-margin"> Porque fazemos o que fazemos?</h3>
-        <p class="white-text no-margin pt5">
-        <br>
-        Em parceria com as maiores companhias de seguro do mundo, oferecemos produtos diferenciados para cuidar do seu dia-a-dia e zelar pelo seu futuro e o da sua empresa.<br><br>
+        <p class="pt5 lead amarelo-text linecorret text-just pmnone fw300">
 
-        Pois segurança, é o principio fundamental, que norteia as nossas atividades, desta forma, elaboramos soluções técnicas, com os menores custos, para fomentar a Saúde e Bem-estar de todos.
+        Em parceria com as maiores seguradoras do mundo, oferecemos produtos exclusivos para proteger seu dia a dia e garantir um futuro seguro para você e sua empresa.<br><br>
 
+A segurança é o princípio fundamental que orienta todas as nossas ações. Por isso, criamos soluções personalizadas e acessíveis, promovendo a saúde, o bem-estar e a tranquilidade de nossos clientes.
         </p>
         </div>
         <div class="xl-6 tab-12 column" >

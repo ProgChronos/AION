@@ -11,44 +11,14 @@
 
 <h4 class="text-center no-margin">Serviços nessa área:</h4>
 
-<div class="row">
-            <div class="xl-6 md-12 column">
-            <ul class="disc pt5">
+<p class="pt5 lead linecorret text-just pmnone fw300">
+Na Aion, oferecemos uma ampla gama de soluções financeiras personalizadas para atender às necessidades específicas dos profissionais liberais. Nossos serviços incluem <b>moedas securitizadas</b>, <b>ações e debêntures</b>, e <b>antecipação e securitização de recebíveis</b>. Também disponibilizamos <b>empréstimos</b> e <b>prestação de serviços em saúde</b>, focando em fornecer suporte completo para a sua prática profissional.<br><br>
+
+Além disso, oferecemos <b>financiamento</b> para <b>bens móveis</b>, <b>imóveis</b>, <b>startups</b>, <b>projetos</b> e <b>equipamentos</b> essenciais para o seu desenvolvimento. Nossos <b>planos de benefícios sociais</b> e <b>financiamento corporativo</b> são desenhados para apoiar o crescimento e a estabilidade da sua carreira e do seu negócio.
+
+</p>
 
 
-            <li>Moedas Securitizadas;</li><br>
-    <li>Ações Debêntures;</li><br>
-    <li>Antecipação de Recebíveis;</li><br>
-    <li>Securitização de Recebíveis;</li><br>
-    <li>Empréstimos;</li><br>
-    <li>Prestação de Serviços em Saúde;</li><br>
-    <li>Financiamento de Bens Móveis;</li><br>
-
-
-
-    
-
-
-        </ul>
-            </div>
-
-            <div class="xl-6 md-12 column">
-            <ul class="disc pt5">
-            <li>Financiamento de Imóveis;</li><br>
-
-            <li>Financiamento de Startup;</li><br>
-    <li>Financiamento de Projetos;</li><br>
-    <li>Financiamento de Equipamentos;</li><br>
-    <li>Planos de Benefícios Sociais;</li><br>
-    <li>Financiamento Corporativo.</li><br>
-
-
-        </ul>
-            </div>
-
-
-
-        </div>
 
 <?php
 Bclose();
@@ -62,23 +32,17 @@ Bclose();
     <div class="row">
         <div class="xl-6 tab-12 column" > 
         <h3 class="white-text no-margin"> Porque fazemos o que fazemos?</h3>
+        <p class="pt5 amarelo-text lead linecorret text-just pmnone fw300">
 
-        <ul class="disc pt5">
-            <li class=" white-text ">
-            Há no profissional liberal um enorme potencial, para a atuação no <mark>EMPREENDEDORISMO E COOPERATIVISMO</mark>, eixo que nos movimenta, pois integra conhecimento e criatividade, além de parcerias que promovem <b class="white-text">INTITUIÇÕES EFICAZES</b>.<br><br></li>
-            <li class=" white-text ">
-Ao compreendemos a importância de empreender de forma planejada e estruturada, investimos na capacitação dos profissionais liberais, para alcançar um novo patamar na estrutura e na gestão dos seus negócios no mercado, focando no que de fato importa. Evidencia-se assim <mark>a CIDADANIA FINANCEIRA e o DESENVOLVIMENTO SUSTENTÁVEL, além da EDUCAÇÃO, GESTÃO E GERAÇÃO DE OPORTUNIDADES.</mark></li>
+        O profissional liberal possui um imenso potencial para se destacar no <b class="white-text">EMPREENDEDORISMO E COOPERATIVISMO</b>, um eixo fundamental que impulsiona nosso trabalho ao integrar conhecimento, criatividade e parcerias estratégicas que fomentam <b class="white-text">INSTITUIÇÕES EFICAZES</b>.<br><br>
 
-
-
-        </ul>
-
+Reconhecemos a importância de empreender de maneira planejada e estruturada. Por isso, investimos na capacitação dos profissionais liberais para elevar a gestão e a estrutura dos seus negócios, focando no que realmente faz a diferença. Isso destaca a <b class="white-text">CIDADANIA FINANCEIRA</b>, o <b class="white-text">DESENVOLVIMENTO SUSTENTÁVEL</b>, e promove a <b class="white-text">EDUCAÇÃO, GESTÃO E GERAÇÃO DE OPORTUNIDADES</b>.
 
 </p>
         </div>
         <div class="xl-6 tab-12 column" >
             <figure class="flexFigure">
-                <img class="flexImage" src="../images/p02_1670972666.webp" srcset="../images/p02_1670972666.webp 1000w, ../images/p02_1670972666.webp 500w" sizes="(max-width: 1000px) 100vw, 1000px" alt="">
+                <img class="flexImage" src="../images/1054197.jpg" srcset="../images/1054197.jpg 1000w, ../images/1054197.jpg 500w" sizes="(max-width: 1000px) 100vw, 1000px" alt="">
             </figure>
         </div>        
     </div>

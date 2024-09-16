@@ -8,25 +8,14 @@
 
 
 
-    BGSYellow('AnyConv.com__alooco.fw_1670882903.webp');
+    BGSYellow('1414.jpg');
 
     ?>
-   <h4 class="no-margin">Nós atuamos com os seguintes serviços:</h4>
-        <ul class="disc pt5">
-            <li class=" ">100% Financiamento Estudantil;</li><br>
-            <li class="">Antecipação de Recebíveis;	</li><br>
-            <li class="">Secutirização dos Recebíveis;	</li><br>
-            <li class="">Construção e Reforma da Escola;	</li><br>
-            <li class="">Atencipação Salarial;	</li><br>
-            <li class="">Compra de Imovéis para as escolas;	</li><br>
-            <li class="">Compra de Material didático para escola e alunos;	</li><br>
-            <li class="">Compra ou Montagem de Laboratório para as escolas;	</li><br>
-            <li class="">Plano de benefícios sociais, para alunos, educadores e funcionários.	</li><br>
-            <li class="">Transporte de Alunos;	</li><br>
-            <li class=""> Alimentação - Alunos, Funcionários e Educadores.	</li><br>
+   <h4 class="no-margin">Aion Educ.:</h4>
 
+   <p class="pt5 lead linecorret text-just pmnone fw300" style="text-align: justify;">
+   Oferecemos financiamento integral para estudos e soluções avançadas para antecipação e securitização de recebíveis.<br><br> Nosso compromisso inclui a construção e reforma de escolas, aquisição de imóveis e material didático, além da montagem de laboratórios.<br><br> Garantimos antecipação salarial e um abrangente plano de benefícios sociais para alunos, educadores e funcionários. Também asseguramos transporte e alimentação adequados para alunos, funcionários e educadores.</p>
 
-        </ul>
    <?php
     Bclose();
 
@@ -37,18 +26,15 @@
 
         <div class="xl-6 tab-12 column" > 
         <h3 class="white-text no-margin white-text">Porque fazemos o que fazemos?</h3>
-       <p class=" white-text pt5">
-       A principal ferramenta do <b class="white-text">TEMPO</b>, para produzir mudanças numa sociedade é a Educação, sem ela o <b class="white-text">MUNDO</b> não muda para a chegada do <b class="white-text">FUTURO</b>.<br><br>
+        <p class="pt5 lead linecorret amarelo-text text-just pmnone fw300" style="text-align: justify;">
+        No TEMPO, acreditamos que a Educação é a principal ferramenta para provocar mudanças significativas na sociedade. Sem uma educação de qualidade, a transformação do mundo e a construção de um futuro melhor são impossíveis.<br><br>
 
-        Ao investir em <mark>Educação de Qualidade</mark> associado ao cuidado integral para com o individuo, estarmos gerando um efeito dominó, que implica no <mark>cuidado</mark>, na <mark>preservação</mark> e <mark>proteção</mark> do nosso planeta e da nossa humanidade.<br><br>
+Ao investir em uma educação de excelência e em um cuidado integral com cada indivíduo, estamos criando um efeito dominó que contribui para a preservação e proteção do nosso planeta e da humanidade.<br><br>
 
-        Cremos que conhecimento é poder, por isso usamos o nosso saber, para nos mover em busca de efetuar a Redução das <mark>Desigualdades</mark>, <mark>Erradicação da pobreza</mark>, alcance da <mark>Fome Zero</mark> e promover o acesso a <mark>Água potável</mark> e <mark>saneamento</mark> a todos.<br><br>
+Acreditamos que conhecimento é poder. Utilizamos nosso saber para combater as desigualdades, erradicar a pobreza, alcançar a Fome Zero e garantir o acesso universal à água potável e ao saneamento.<br><br>
 
-        Ao estabelecermos uma interação com o ambiente, consciente dos impactos que geramos, estamos articulando: <mark>Agricultura Sustentável</mark> e <mark>Consumo</mark> e <mark>produção responsáveis</mark>, que implicam também na <mark>Indústria</mark>, <mark>inovação</mark> e <mark>infraestrutura</mark> e impulsiona a <mark>Ação contra a mudança global do clima</mark>, desta forma, produzindo iniciativas de proteção a <mark>Vida Terrestre</mark> e a <mark>Vida na água</mark>.<br><br>
 
-        Ao preparamos, educarmos e levarmos o Saber, estamos promovendo <mark>Paz</mark>, <mark>justiça</mark> e <mark>instituições eficazes</mark> que irão estabelecer <mark>Parcerias e meios de implementação</mark>, para tornar as nossas <mark>Cidades e comunidades sustentáveis</mark> com<mark> Energia limpa e acessível</mark>, com <mark>Trabalho decentee crescimento</mark>  econômico atento as demandas da <mark>Igualdade de gênero</mark> para nossos povos e nações, e por fim alcançar a <mark>Saúde e Bem-estar de todos.</mark><br><br>
 
- 
        </p>
 
  
@@ -59,6 +45,30 @@
             </figure>
         </div>        </div>
     </section>
+
+
+
+
+
+<?php
+    BGSYellow('2151164274.jpg');
+
+?>
+<h4 class="no-margin">Nosso compromisso:</h4>
+
+<p class="pt5 lead linecorret text-just pmnone fw300" style="text-align: justify;">
+ 
+Com a interação consciente com o ambiente inclui a promoção da Agricultura Sustentável e práticas de Consumo e Produção Responsáveis. Atuamos também na Indústria, Inovação e Infraestrutura para enfrentar a mudança climática, protegendo a Vida Terrestre e a Vida Aquática.<br><br>
+
+<mark> Ao educar e disseminar conhecimento, estamos promovendo a Paz, a Justiça e instituições eficazes. </mark>  <br><br> 
+
+Buscamos estabelecer parcerias e meios de implementação para criar cidades e comunidades sustentáveis, com energia limpa e acessível, trabalho decente e crescimento econômico inclusivo. Estamos atentos à Igualdade de Gênero e focados na Saúde e Bem-Estar de todos.<br><br>
+</p>
+
+<?php
+Bclose();
+
+?>
 
 
 <section class="backgroundSectionWhite " id="5">

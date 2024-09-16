@@ -287,7 +287,7 @@ INTUIÇÃO
             <blockquote class="white" cite="http://where-i-got-my-info-from.com">
             <div class="row row-x-center">
                 <div class="column xl-6 md-12 ">
-                    <p class="white-text">
+                    <p class="amarelo-text lead linecorret text-just pmnone fw300">
                     Descartes afirmava que “Penso, logo existo” e nós acreditamos que “Existimos, porque pensamos,
                     sentimos e produzimos”, este aforismo, nos assenta em um lugar na história de intensa
                     responsabilidade de movimentar a engrenagem das mudanças.<br><br>
@@ -329,9 +329,9 @@ INTUIÇÃO
             </div>   
             <!-- #region --> 
                 <div class="column xl-6 md-12 ">
-                    <p >
-                    Um dia é uma miniatura de eternidade.<br>
-                    – Ralph Emerson<br><br>
+                    <p class="lead linecorret text-just pmnone fw300">
+                    <i>Um dia é uma miniatura de eternidade.</i><br>
+                    <b>– Ralph Emerson</b><br><br>
 
                     Para quem sonha em construir feitos históricos um dia, tudo começa com um pequeno movimento,
                     um verbo, uma ação repetida disciplinadamente incontáveis vezes.<br>
@@ -364,7 +364,7 @@ INTUIÇÃO
             <blockquote class="white" cite="http://where-i-got-my-info-from.com">
             <div class="row row-x-center">
                 <div class="column xl-6 md-12 ">
-                    <p class="white-text">
+                    <p class="white-text lead linecorret text-just pmnone fw300">
                     Não existe nenhum caminho lógico para a descoberta das leis do Universo , o único caminho é a intuição 
                     - Albert Einsten<br><br>
 A intuição é sempre responsabilizada pelas tomadas de decisões

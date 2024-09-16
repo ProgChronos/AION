@@ -14,11 +14,11 @@
     BGSYellow('cmc02_1670987721.webp');
 ?>
 
-            <p class="pt5">
-            O primeiro passo para converter uma ideia em realidade, está no compartimento desta com as partes interessadas.<br><br>
+<p class="pt5 lead linecorret text-just pmnone fw300">
+            O primeiro passo para <b>converter uma ideia </b>em realidade, está no compartimento desta com as partes interessadas.<br><br>
 Quando nos comunicamos, atuamos em um processo cultural e social primário, criando pontes de transmissão em diferentes níveis de linguagem: sensorial, visual, auditiva e emocional, acerca das nossas ideias e pensamentos, assim começamos a dissolver conflitos entre indivíduos, empresas, povos e até nações.<br><br>
 
-A inserção nesse ramo, se implica na emergência de aprimorarmos a disseminação de conhecimentos e através da comunicação assertiva e não violenta, promovendo a educação acerca da cultura da <mark>Paz, Justiça e Instituições Eficazes</mark>, pois na era das tecnologias, a influência se intensifica através da mídia, que impacta diretamente através das ideias nas crenças e nos comportamentos das pessoas que estão hiper conectadas constantemente.
+A inserção nesse ramo, se implica na emergência de aprimorarmos a disseminação de conhecimentos e através da comunicação assertiva e não violenta, promovendo a educação acerca da cultura da <b>Paz, Justiça e Instituições Eficazes</b>, pois na era das tecnologias, a influência se intensifica através da mídia, que impacta diretamente através das ideias nas crenças e nos comportamentos das pessoas que estão hiper conectadas constantemente.
             </p>
             
 
@@ -62,26 +62,26 @@ Modifico.
 <section class="backgroundSectionBlack " id="1">
     <div class="row">
         <div class="xl-6 tab-12 column" > 
-        <p class="white-text no-margin pt5">Criar, desenvolver, administrar, gestar ou fazer aquisição de veículos de comunicação, tais como:<br><br></p>
-        <ul class="disc pt5">
-            <li class=" white-text ">Editoras
-            </li><br>
+        <p class="pt5 amarelo-text lead linecorret text-just pmnone fw300">
+        Criar, desenvolver, administrar, gestar ou fazer aquisição de veículos de comunicação, tais como:<br><br>
+            Editoras
+           
 
-            <li class=" white-text ">Revistas;
+            Revistas; <br> <br>
 
-            </li><br>
             
-            <li class=" white-text ">Empresas de comunicação, bem como, rádios e emissoras de TV;
-            </li><br>
+            Empresas de comunicação, bem como, rádios e emissoras de TV; <br> <br>
+          
 
-            <li class=" white-text ">Empresas promotoras e ou realizadoras de Eventos;
-            </li><br>
+            Empresas promotoras e ou realizadoras de Eventos; <br> <br>
+           
 
-            <li class=" white-text ">Consultorias e Assessorias de Marketing, Propaganda e Publicidade;
-            </li><br>
+            Consultorias e Assessorias de Marketing, Propaganda e Publicidade; <br> <br>
+            
 
-            <li class=" white-text ">Pesquisas e outras Instituições da área, com fins lucrativos ou não, que se façam necessárias ao desenvolvimento das atividades do <b class="white-text">INSTITUTO AION DO BRASIL</b>.
-            </li><br>
+            Pesquisas e outras Instituições da área, com fins lucrativos ou não, que se façam necessárias ao desenvolvimento das atividades do <b class="white-text">INSTITUTO AION DO BRASIL</b>.
+            <br> <br>
+            </p>
            
         </ul>
         </div>
@@ -94,19 +94,22 @@ Modifico.
 </section>
 <?php 
 
-BGSYellow('cmc04 (1)_1670988757 (1).jpg');
+BGSYellow('2148342090.jpg');
 ?>
 <h3>Porque fazemos o que fazemos?
 </h3>
-<p>A comunicação como principal ferramenta de interação social é também imprescindível, para o estabelecimento de iniciativas sustentáveis. <br><br>
+<p class="pt5 lead linecorret text-just pmnone fw300">
+A comunicação como principal ferramenta de interação social é também imprescindível, para o estabelecimento de iniciativas sustentáveis. <br><br>
 
  
 
-Considerando que perpassa a sustentabilidade psicológica, social, cultural e política, em sua cerne há possibilidades de propagar o estabelecimento de todos os <mark>Objetivos para o Desenvolvimento Sustentável.</mark><br><br>
+Considerando que perpassa a sustentabilidade psicológica, social, cultural e política, em sua cerne há possibilidades de propagar o estabelecimento de todos os <b>Objetivos para o Desenvolvimento Sustentável.</b><br><br>
 
  
 
-Para além disso, o acesso aos meios de comunicação, colabora para <mark>Redução das Desigualdades</mark>, quando novos postos de trabalho são gerados neste segmento, há geração de <mark>Emprego Digno e Crescimento Econômico,</mark> havendo o compartilhamento de informações seguras há promoção da <mark>Saúde e Bem-estar</mark> na vida das pessoas, que colabora para <mark>Paz, Justiça e Instituições Fortes.</mark></p>
+Para além disso, o acesso aos meios de comunicação, colabora para <b>Redução das Desigualdades</b>, quando novos postos de trabalho são gerados neste segmento, há geração de <b>Emprego Digno e Crescimento Econômico,</b> havendo o compartilhamento de informações seguras há promoção da <b>Saúde e Bem-estar</b> na vida das pessoas, que colabora para <b>Paz, Justiça e Instituições Fortes.</b>
+</p>
+
 <?php
 
 Bclose();

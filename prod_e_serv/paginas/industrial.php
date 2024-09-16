@@ -4,52 +4,17 @@
     include_once("../../php/menu.php");
     include_once("../../php/functions/functionsAll.php");
 
-    headerTop('../images/header/19102 (1).jpg','" Os homens que desejam fazer algo, devem antes preparar-se com toda indústria,<br> para estarem, chegada a ocasião, aparelhados para cumprir aquilo que se propuseram executar. "','Maquiavel');
+    headerTop('../images/header/2149057714.jpg','" Os homens que desejam fazer algo, devem antes preparar-se com toda indústria,<br> para estarem, chegada a ocasião, aparelhados para cumprir aquilo que se propuseram executar. "','Maquiavel');
 
-    BGSYellow('2149057688.jpg');
+    BGSYellow('592.jpg');
 ?>
 
-<h4 class="text-center no-margin">Áreas de Atuação:</h4>
+<h4 class="text-just no-margin">A Aion oferece uma vasta gama de soluções financeiras e serviços especializados para atender às suas necessidades em diferentes setores.</h4>
 
-<div class="row">
-            <div class="xl-6 md-12 column">
-            <ul class="disc pt5">
-        
-    <li>Moedas securitizadas;</li>
-    <li>Financiamento de Imóveis;</li>
-    <li>Ações Debentures;</li>
-    <li>Financiamento de Infraestruturas;</li>
-    <li>Antecipação de Recebíveis;</li>
-    <li>Financiamento de Veículos;</li>
-    <li>Financiamentos;</li>
-    <li>Planos de Benefícios Sociais;</li>
-    <li>Securitização de Recebíveis;</li>
-    <li>Financiamento Corporativo;</li>
+<p class="pt5 lead linecorret text-just pmnone fw300">
+Nossa expertise inclui financiamento de imóveis, facilitando a aquisição de propriedades residenciais e comerciais, e financiamento de veículos para tornar a compra de carros novos ou usados mais acessível. Além disso, proporcionamos financiamento de infraestruturas para apoiar grandes projetos e melhorias estruturais, e financiamento corporativo para impulsionar o crescimento e a expansão das empresas.<br><br>
 
-        </ul>
-            </div>
-
-            <div class="xl-6 md-12 column">
-            <ul class="disc pt5">
-        
-    <li>Empréstimos Consignados;</li>
-    <li>Laticínios;</li>
-    <li>Antecipação Salarial;</li>
-    <li>Artefatos de Cimento;</li>
-    <li>Prestação de Serviços - Saúde;</li>
-    <li>Indústrias Gráficas;</li>
-    <li>Financiamento de Bens - Móveis;</li>
-    <li>Alimentos;</li>
-    <li>Financiamento de Imóveis;</li>
-    <li>Resíduos Sólidos.</li>
-
-
-        </ul>
-            </div>
-
-
-
-        </div>
+Oferecemos também empréstimos consignados com condições favoráveis e pagamento descontado diretamente da folha de pagamento, e antecipação de recebíveis para melhorar o fluxo de caixa das empresas. A securitização de recebíveis transforma valores a receber em investimentos, enquanto nossas opções de ações e debêntures permitem diversificar seu portfólio no mercado de capitais.</p>
 
 <?php
 Bclose();
@@ -58,33 +23,54 @@ Bclose();
  
 
 ?>
-
 <section class="backgroundSectionBlack " id="1">
     <div class="row">
         <div class="xl-6 tab-12 column" > 
-        <h3 class="white-text no-margin"> Porque fazemos o que fazemos?</h3>
-        <p class="white-text no-margin pt5">Produzimos empreendimentos, nos quais através do desempenho da nossa prestação de serviços ou contratação de mão-de-obra, corroboram diretamente para:</p>
-        <ul class="disc pt5">
-            <li class=" white-text "><b class="white-text lead2 no-margin">A erradicação da pobreza -</b> Através da abertura de novos postos de empregos, para que as pessoas em situação em extrema vulnerabilidade social, tenham acesso a serviços básicos, a novas tecnologias e serviços financeiros, para a demonstração do seu potencial humano e o aprimorando de si e da sociedade.
-            </li><br>
+        <p class="pt5 lead linecorret text-just pmnone fw300 amarelo-text no-margin p0">
+            
+        Além desses serviços financeiros, a Aion está envolvida em laticínios, alimentos e artefatos de cimento, oferecendo suporte e financiamento para esses setores essenciais. Atuamos também nas indústrias gráficas e na gestão de resíduos sólidos, garantindo a continuidade e eficiência dessas operações. Nosso compromisso se estende à prestação de serviços de saúde, oferecendo suporte financeiro para iniciativas nesta área crucial.<br><br>
 
-            <li class=" white-text "><b class="white-text lead2 no-margin">Realizar a capacitação -</b> Reciclagem profissional de pessoas Independente de raça, etnia, deficiência, orientação sexual, identidade de gênero, territorialidade, cultura, religião e nacionalidade, a fim de assegurar a educação inclusiva, equitativa e de qualidade para fomentar a prosperidade pessoal, social, ambiental, econômica e tecnológica.
-            </li><br>
+Para completar, disponibilizamos financiamento de bens móveis para aquisição ou substituição de itens essenciais, bem como planos de benefícios sociais abrangentes para funcionários, alunos e parceiros.<br><br>
 
-            <li class=" white-text "><b class="white-text lead2 no-margin">Aprimorar - </b> O desenvolvimento tecnológico da região, implicando no desenvolvimento econômico e social além de fomentar investimentos para a inovação.
-            </li><br>
+Na Aion, estamos dedicados a fornecer soluções personalizadas e eficazes para promover o sucesso e o crescimento em diversos setores e áreas. Entre em contato conosco para descobrir como podemos apoiar suas necessidades e objetivos.<br><br>
 
-            <li class=" white-text "><b class="white-text lead2 no-margin">E por fim - </b> Para custear a manutenção da nossa estrutura e investir em projetos sociais que partilhem do mesmo propósito, de forma direta ou indireta, ao <b class="white-text">INSTITUTO</b>, no Brasil e no Exterior.
-            </li><br>
-           
-        </ul>
+        </p>
+    
         </div>
         <div class="xl-6 tab-12 column" >
-            <figure class="flexFigure">
-                <img class="flexImage" src="../images/2151468906 (1).jpg " srcset="../images/2151468906 (1).jpg  1000w, ../images/2151468906 (1).jpg  500w" sizes="(max-width: 1000px) 100vw, 1000px" alt="">
-            </figure>
+            <?php imageUnica('../images/2151589636.jpg','Industria');?>
         </div>        
     </div>
 </section>
+
+
+<?php
+BGSYellow('2148621071.jpg');
+?>
+
+<h4 class="text-just no-margin">Por que fazemos o que fazemos?</h4>
+
+<p class="pt5 lead linecorret text-just pmnone fw300">
+
+
+Na Aion, estamos comprometidos em transformar a sociedade por meio da criação e gestão de empreendimentos que geram impacto positivo direto. Nossos esforços visam:<br><br>
+
+<mark>Erradicação da Pobreza:</mark> Abrimos novas oportunidades de emprego, proporcionando a pessoas em situação de extrema vulnerabilidade acesso a serviços básicos, novas tecnologias e serviços financeiros. Isso permite que elas demonstrem seu potencial e contribuam para a melhoria de si mesmas e da sociedade.<br><br>
+
+<mark>Capacitação e Inclusão:</mark> Oferecemos reciclagem profissional para indivíduos, independentemente de raça, etnia, deficiência, orientação sexual, identidade de gênero, localização, cultura, religião ou nacionalidade. Buscamos garantir uma educação inclusiva e de qualidade, promovendo prosperidade pessoal, social, ambiental, econômica e tecnológica.<br><br>
+
+<mark>Aprimoramento Tecnológico:</mark> Investimos no desenvolvimento tecnológico regional, o que impulsiona o progresso econômico e social. Nossa atuação fomenta a inovação e atrai investimentos para o avanço tecnológico.<br><br>
+
+<mark>Sustentabilidade e Investimento Social: </mark>Utilizamos nossos recursos para manter nossa estrutura e investir em projetos sociais alinhados com nossa missão. Esses projetos, tanto no Brasil quanto no exterior, têm o objetivo de promover mudanças significativas e positivas na sociedade.<br><br>
+
+Na Aion, acreditamos que o progresso sustentável e a inclusão são fundamentais para criar um futuro melhor para todos. Estamos dedicados a fazer a diferença através de nossas iniciativas e parcerias.<br><br>
+
+</p>
+
+<?php
+Bclose();
+?>
+
+
 <?php 
     include_once("../../php/rodape.php");

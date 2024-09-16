@@ -175,6 +175,8 @@ header{
     border-radius: 1rem;
     color: var(--badge-text);
   }
+
+  
   
   @media (max-width:730px) {
     
@@ -182,7 +184,7 @@ header{
   z-index: 9999; 
   position: relative;
   width: 100%;
-  margin-top: 34px;
+  margin-top: 0px;
 }
     .nav_toggle {
         display: block;

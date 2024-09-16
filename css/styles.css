@@ -1449,6 +1449,13 @@ p img {
 }
 
 
+.pl12{
+	padding-left: 12% !important;
+}
+.pl8{
+	padding-left: 8% !important;
+}
+
 .flexImage{
 	object-fit: cover;
 	height: 100%;
@@ -1475,8 +1482,8 @@ figcaption {
 	margin-bottom: 0;
 }
 
-text-just {
-	text-align   : justify
+.text-just {
+	text-align   : justify !important;
 }
 
 /* preformatted, code
@@ -1578,6 +1585,7 @@ hr.fancy::before {
 	font-size  : var(--text-md);
 	line-height: var(--vspace-1_25);
 	padding: 13px;
+	font-weight: 300;
 }
 
 .lead2,
@@ -1585,6 +1593,8 @@ hr.fancy::before {
 	font-family: var(--font-1);
 	font-size  : var(--text-md);
 	line-height: var(--vspace-1_25);
+	font-weight: 300;
+
 }
 
 @media screen and (max-width: 800px) {
@@ -6991,10 +7001,23 @@ form.form_contact input[type="button"]:hover{
 
 
 .text-aspas{
+	font-size: var(--text-md);
 	font-weight: 300;
     color: var(--color-3);
 }
 
+.fw300{
+	font-weight: 300;
+}
+
 .amarelo-text{
 	color: var(--color-3) !important;
+}
+
+.pl5{
+	padding-left: 15%;
+}
+
+.p0{
+	padding: 0 !important;
 }

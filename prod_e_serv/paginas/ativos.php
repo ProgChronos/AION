@@ -9,64 +9,48 @@
     BGSYellow('8641.jpg');
 ?>
 
-<h4 class="text-center no-margin">Áreas de Atuação:</h4>
+<h4 class="no-margin">Áreas de Atuação:</h4>
+<p class="pt5 lead linecorret text-just pmnone fw300">
+Na Aion, oferecemos uma gama diversificada de serviços financeiros e soluções de investimento para atender às demandas de nossos clientes. Nossa expertise abrange <b>seguros de performance</b>, <b>recebíveis de contratos públicos</b> e <b>garantias bancárias</b> que proporcionam segurança e confiança nas operações financeiras.
+<br><br>
 
-<div class="row">
-            <div class="xl-6 md-12 column">
-            <ul class="disc pt5">
-            <li>Seguros de Performance;</li>
-    <li>Recebíveis de Contratos Públicos;</li>
-    <li>Compra e Venda de Títulos Públicos;</li>
-    <li>Compra e Venda de Títulos Privados;</li>
-    <li>Compra e Venda de Ativos Mobiliários;</li>
-    
+Também atuamos na <b>compra e venda de títulos públicos</b> e <b>privados</b>, assim como em <b>ativos mobiliários</b>, <b>minerais</b>, <b>colaterais e recebíveis</b>, <b>imóveis</b> e <b>commodities</b>. Nosso objetivo é fornecer opções estratégicas para a diversificação e crescimento do seu portfólio, garantindo solidez e rentabilidade em cada transação.
 
 
-        </ul>
-            </div>
+</p>
 
-            <div class="xl-6 md-12 column">
-            <ul class="disc pt5">
-            <li>Garantias Bancárias;</li>
-    <li>Compra e Venda de Minerais;</li>
-    <li>Compra e Venda de Colaterais e Recebíveis;</li>
-    <li>Compra e Venda de Imóveis;</li>
-    <li>Compra e Venda de Commodities;</li>
-
-
-        </ul>
-            </div>
-
-
-
-        </div>
 
 <?php
 Bclose();
-    
-
- 
-
 ?>
+
+
 
 <section class="backgroundSectionBlack " id="1">
     <div class="row">
         <div class="xl-6 tab-12 column" > 
-        <h3 class="white-text no-margin"> Porque fazemos o que fazemos?</h3>
-        <p class="white-text no-margin pt5">A ideia de que tudo pode ser convertido em dinheiro é considerada mecanicista, mas sabemos que o dinheiro é a chave que abre as portas de transição para novos espaços e novos começos. <br><br>
+        <h4 class="amarelo-text no-margin"> Porque fazemos o que fazemos?</h4>
+        <p class="pt5 lead linecorret text-just pmnone fw300 amarelo-text no-margin ">
+        Embora a ideia de que tudo pode ser convertido em dinheiro pareça mecanicista, reconhecemos que o dinheiro é a chave que abre portas para novas oportunidades e possibilita transições para novos espaços e começos.<br><br>
 
-Ao atuar na <mark>GERAÇÃO DE OPORTUNIDADES</mark>, enxergamos no ramo de ativos, possibilidades de investimentos que tragam rentabilidade futura de forma a conceder a segurança para nossas operações e investimentos.<br><br>
+Ao atuar na geração de oportunidades, identificamos no mercado de ativos diversas possibilidades de investimentos que oferecem rentabilidade futura, garantindo a segurança de nossas operações e investimentos.<br><br>
 
-Assim, podemos nos dedicar a elaboração de projetos, negócios, produtos e serviços que fomentem a prosperidade, o desenvolvimento econômico sustentável e social.
-
-</p>
+Dessa forma, podemos nos concentrar na elaboração de projetos, negócios, produtos e serviços que promovam a prosperidade, o desenvolvimento econômico sustentável e o progresso social.    
+    </p>
         </div>
         <div class="xl-6 tab-12 column" >
             <figure class="flexFigure">
-                <img class="flexImage" src="../images/1149.jpg" srcset="../images/1149.jpg 1000w, ../images/1149.jpg 500w" sizes="(max-width: 1000px) 100vw, 1000px" alt="">
+                <img class="flexImage" src="../images/5545 (1).jpg" srcset="../images/5545 (1).jpg 1000w, ../images/5545 (1).jpg 500w" sizes="(max-width: 1000px) 100vw, 1000px" alt="">
             </figure>
         </div>        
     </div>
 </section>
+
+
+
+
+
+
+
 <?php 
     include_once("../../php/rodape.php");

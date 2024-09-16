@@ -10,24 +10,22 @@
 
 <section class="pt5 backgroundSectionYellow" id="1">
     <div class="row">
-        <div class="xl-6 tab-12 column">
-            <h2 class="h-add-bottom no-margin">Atuação nos serviços:</h2>
-                <ul class="disc pt5">
-                    <li class="lead2">Plano de saúde;	</li>
-	                <li class="lead2">Plano odontológico;</li>
-	                <li class="lead2">Plano de medicamentos;</li>
-	                <li class="lead2">Atendimento médico domiciliar;</li>
-	                <li class="lead2">Plano de Urgência e Emergência;</li>
-	                <li class="lead2">Planos de descontos; e</li>
-	                <li class="lead2">Plano Auxílio Funeral.</li>
-                </ul><br>
-        </div>
-
-        <div class="xl-6 tab-12 column">
-            <figure>
-                <img src="../images/120898.jpg" srcset="../images/120898.jpg 1000w, ../images/120898.jpg 500w" sizes="(max-width: 1000px) 100vw, 1000px" alt="">
+    <div class="xl-6 tab-12 column">
+            <figure class="flexFigure">
+                <img class="flexImage" src="../images/120898.jpg" srcset="../images/120898.jpg 1000w, ../images/120898.jpg 500w" sizes="(max-width: 1000px) 100vw, 1000px" alt="">
             </figure>
         </div>
+
+
+        <div class="xl-6 tab-12 column">
+            <h2 class="h-add-bottom no-margin">Atuação nos serviços:</h2>
+                <p class="pt5 lead linecorrettext-just pmnone" style="text-align: justify;">
+                Oferecemos uma solução abrangente de saúde e bem-estar, com um plano de saúde completo que cobre consultas, exames, internações e tratamentos, além de um plano odontológico para cuidados com a saúde bucal, incluindo consultas, prevenção e tratamentos especializados.<br><br> Contamos com um plano de medicamentos que oferece descontos exclusivos, facilitando o acesso aos remédios necessários. Para maior comodidade, disponibilizamos atendimento médico domiciliar, com assistência no conforto do seu lar, e atendimento 24 horas para urgências e emergências, garantindo suporte rápido e eficaz sempre que necessário.<br><br> Nossos serviços também incluem opções de descontos em diversas áreas de saúde e bem-estar, além de um plano de auxílio funeral, que proporciona apoio em momentos difíceis, cobrindo despesas funerárias e assegurando tranquilidade e segurança para você e sua família.
+                </p>
+                
+        </div>
+
+        
     </div> 
 </section>
 
@@ -35,8 +33,9 @@
     <div class="row pt5">
         <div class="xl-6 tab-12 column">
             <h2 class="h-add-bottom no-margin white-text ">Porque fazemos o que fazemos?</h2>
-            <p class=" white-text pt5">Considerando que a nossa equipe, entende saúde como principal pilar da vida humana, sendo a soma dos impactos em diversas esferas da vida, por isso nos ocupamos em elaborar soluções, através de produtos e serviços, que de forma integrada ofertam: qualidade, eficiência, economia, saúde e qualidade de vida e nos permite promover a :	   </p>
-                <ul class="disc white-text">
+                            <p class="pt5 lead linecorrettext-just pmnone amarelo-text" style="text-align: justify;">
+Considerando que a nossa equipe, entende saúde como principal pilar da vida humana, sendo a soma dos impactos em diversas esferas da vida, por isso nos ocupamos em elaborar soluções, através de produtos e serviços, que de forma integrada ofertam: qualidade, eficiência, economia, saúde e qualidade de vida e nos permite promover a :	   </p><br>
+                <ul class="disc white-text linecorret text-aspas pl8">
                     <li class="">Saúde do Trabalhador(a);</li>
 	                <li class="">Saúde da Criança ;</li>
 	                <li class="">Saúde do Adulto e Idoso;</li>

@@ -9,84 +9,82 @@
     BGSYellow('2151307753.jpg');
 ?>
 
-<h4 class="text-center no-margin">Áreas de Atuação:</h4>
+<h4 class="text-just no-margin">A Aion oferece uma ampla gama de serviços financeiros e investimentos especializados para atender às suas necessidades em diversos setores.</h4>
+            <p class="pt5 lead linecorret text-just pmnone fw300">
 
-<div class="row">
-            <div class="xl-6 md-12 column">
-            <ul class="disc pt5">
-        
-            <li>Moedas Securitizadas;</li>
-    <li>Compra de Mineradoras;</li>
-    <li>Ações Debentures;</li>
-    <li>Financiamento de Materiais de Construção;</li>
-    <li>Antecipação de Recebíveis;</li>
-    <li>Compra de Minerais Brutos;</li>
-    <li>100% de financiamento de ativos minerais;</li>
+                <b>Serviços e Investimentos:</b> Disponibilizamos moedas securitizadas e opções de compra de mineradoras, além de ações e debêntures para diversificação de investimentos. Nosso portfólio inclui financiamento de materiais de construção e antecipação de recebíveis, além da compra de minerais brutos e minerais tratados lapidados. Oferecemos também 100% de financiamento de ativos minerais e financiamento de plantas para apoiar suas necessidades específicas.<br><br>
 
+                <b>Infraestrutura e Benefícios:</b> Atuamos na construção e reforma comercial, proporcionando financiamento corporativo para o crescimento e expansão das empresas. Garantimos planos de benefícios sociais abrangentes e oferecemos antecipação salarial para melhorar o fluxo de caixa e apoiar os funcionários.<br><br>
 
-        </ul>
-            </div>
-
-            <div class="xl-6 md-12 column">
-            <ul class="disc pt5">
-        
-            <li>Compra de Minerais Tratados Lapidados;</li>
-    <li>Securitização de Recebíveis;</li>
-    <li>Planos de Benefícios Sociais;</li>
-    <li>Construção e Reforma Comercial;</li>
-    <li>Financiamento Corporativo.</li>
-    <li>Antecipação Salarial;</li>
-    <li>Financiamento de Plantas;</li>
-
-
-        </ul>
-            </div>
-
-
-
-        </div>
-
+</p>
 <?php
-Bclose();
-    
-
- 
-
+    Bclose();
 ?>
 
 <section class="backgroundSectionBlack " id="1">
     <div class="row">
         <div class="xl-6 tab-12 column" > 
-        <h3 class="white-text no-margin"> Porque fazemos o que fazemos?</h3>
-        <p class="white-text no-margin pt5">Investir em Mineração de forma <mark>Sustentável</mark> é fomentar:</p>
-        <ul class="disc pt5">
-            <li class=" white-text ">O desenvolvimento econômico e industrial da região no que tange a criação de empregos diretos e indiretos nos mais variados segmentos;
-            </li><br>
+        <p class="pt5 lead linecorret text-just pmnone fw300 amarelo-text no-margin p0">
+            
+        <b class="amarelo-text ">Securitização e Antecipação:</b> Nossa abordagem inclui securitização de recebíveis para transformar valores a receber em investimentos, proporcionando soluções financeiras eficientes e flexíveis.<br><br>
 
-            <li class=" white-text ">Estimular o desenvolvimento tecnológico, considerando que a matéria-prima para produção de novas tecnologias materiais, geralmente são oriundas de recursos minerais;
-            </li><br>
+Na Aion, estamos comprometidos em fornecer soluções financeiras personalizadas que atendem às suas necessidades e contribuem para o sucesso e crescimento sustentável em diversos setores. O desenvolvimento econômico e industrial da região no que tange a criação de empregos diretos e indiretos nos mais variados segmentos;
 
-            <li class=" white-text ">Incentivar ao consumo e a produção corresponsáveis, avaliando os impactos no que tange a degradação do meio ambiente no processo de mineração;
-            </li><br>
 
-            <li class=" white-text ">Elaborar alternativas de preservação e manutenção do equilíbrio na Vida Terrestre e Vida na Agua;
-            </li><br>
-
-            <li class=" white-text ">Considerar os impactos na saúde e o bem estar dos trabalhadores e população no entorno, primando pela qualidade de vida; e
-            </li><br>
-
-            <li class=" white-text ">E por fim, para custear a manutenção da nossa estrutura e investir em projetos sociais que partilhem do mesmo propósito, vinculados de forma direta ou indireta, ao <b class="white-text ">INSTITUTO</b>, no Brasil e no Exterior.
-
-            </li><br>
-           
-        </ul>
+        </p>
+    
         </div>
         <div class="xl-6 tab-12 column" >
-            <figure class="flexFigure">
-                <img class="flexImage" src="../images/244.jpg" srcset="../images/244.jpg 1000w, ../images/244.jpg 500w" sizes="(max-width: 1000px) 100vw, 1000px" alt="">
-            </figure>
+            <?php imageUnica('../images/2151589636.jpg','Industria');?>
         </div>        
     </div>
 </section>
+
+
+<?php
+BGSYellow('244.jpg');
+?>
+  
+<p class="pt5 lead linecorret text-just pmnone fw300">
+
+
+Nosso investimento em mineração sustentável visa criar um impacto positivo significativo em várias áreas:<br>
+
+<b>Fomento ao Desenvolvimento Tecnológico:</b> Os recursos minerais são cruciais para o avanço tecnológico. Investimos em mineração para fornecer a matéria-prima necessária para o desenvolvimento de novas tecnologias e materiais inovadores.<br><br>
+
+<b>Promoção do Consumo:</b> Comprometemo-nos a avaliar e mitigar os impactos ambientais da mineração. Buscamos práticas que reduzam a degradação ambiental e promovam uma abordagem responsável em todas as fases do processo.<br><br>
+
+<b>Preservação Ambiental:</b> Trabalhamos para implementar alternativas que protejam e mantenham o equilíbrio da Vida Terrestre e da Vida Aquática. Nossa meta é garantir que nossas operações não comprometam a saúde dos ecossistemas.<br><br>
+
+
+</p>
+
+<?php
+Bclose();
+?>
+
+
+
+
+
+<section class="backgroundSectionBlack " id="1">
+    <div class="row">
+        <div class="xl-6 tab-12 column" > 
+        <p class="pt5 lead linecorret text-just pmnone fw300 amarelo-text no-margin p0">
+            
+        <b class="amarelo-text">Proteção da Saúde e Bem-Estar:</b> Dedicamo-nos a garantir que nossos processos respeitem a saúde e a qualidade de vida dos trabalhadores e das comunidades vizinhas, promovendo condições de trabalho seguras e um ambiente saudável.<br><br>
+
+        <b class="amarelo-text">Investimento em Projetos Sociais:</b> Utilizamos nossos recursos para manter a estrutura e apoiar projetos sociais alinhados com nossos valores de responsabilidade e sustentabilidade. Nossos investimentos beneficiam tanto o Brasil quanto o exterior, contribuindo para o desenvolvimento social e ambiental por meio do <b class="amarelo-text">INSTITUTO</b>.
+
+
+        </p>
+    
+        </div>
+        <div class="xl-6 tab-12 column" >
+            <?php imageUnica('../images/2149191362.jpg','Proteção da Saúde');?>
+        </div>        
+    </div>
+</section>
+
 <?php 
     include_once("../../php/rodape.php");

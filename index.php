@@ -142,25 +142,25 @@ include_once("php/menu.php");
         <div class="swiper-container testimonials__slider home-slider">
 
             <div class="swiper-wrapper">
-        
+
                 <?php 
-                    Servicos("Saúde","","","images/servicos/saude.jpg","");
+                    Servicos("Saúde","","","images/servicos/new/saude.jpg","");
                     Servicos("Consultoria e Assessoria","","","images/servicos/11082.jpg","");
-                    Servicos("Estruturação e Re-Estruturação","","","images/servicos/13885.jpg","");
-                    Servicos("Construção Civil & Imobiliária","","","images/servicos/construcao.jpg","");
-                    Servicos("Educação","","","images/servicos/educacao.jpg","");
-                    Servicos("Industrial","","","images/servicos/19102.jpg","");
-                    Servicos("Mineração","","","images/servicos/32699.jpg",""); //
-                    Servicos("Commodities","","","images/servicos/65444.jpg","");
-                    Servicos("Ativos","","","images/servicos/12_Easy-Resize.com.jpg","");
-                    Servicos("Seguros","","","images/servicos/11082.jpg","");
+                    Servicos("Estruturação e Re-Estruturação","","","images/servicos/new/Estruturacao.jpg","");
+                    Servicos("Construção Civil & Imobiliária","","","images/servicos/new/construcao.jpg","");
+                    Servicos("Educação","","","images/servicos/new/educacao.jpg","");
+                    Servicos("Industrial","","","images/servicos/new/industrial.jpg","");
+                    Servicos("Mineração","","","images/servicos/new/mineracao.jpg",""); //
+                    Servicos("Commodities","","","images/servicos/new/commodits.jpg","");
+                    Servicos("Ativos","","","images/servicos/new/ativos.jpg","");
+                    Servicos("Seguros","","","images/servicos/new/seguros.jpg","");
                     Servicos("Ciência & Tecnologia","","","images/servicos/ciencia.jpg","");
                     Servicos("Comércio","","","images/servicos/64.jpg",""); //
                     Servicos("Profissionais Liberais","","","images/servicos/5638.jpg","");
                     Servicos("Entes Públicos","","","images/servicos/13345.jpg","");
                     Servicos("Comunicação","","","images/servicos/2148911819.jpg","");
                 ?>
-                
+
                 </div> 
 
             <div class="swiper-pagination"></div>
