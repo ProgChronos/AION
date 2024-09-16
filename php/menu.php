@@ -1,6 +1,6 @@
 <?php 
   $texto = null;
-  echo( $_SERVER['REQUEST_URI']);
+  $urlSite  = 'http://' . $_SERVER['HTTP_HOST'];
 
   if(isset($dentroDePasta)){
     $texto = "../../";
@@ -9,12 +9,12 @@
 <header>
       <div class="container">
         <nav class="navigation">
-          <a href="http://localhost/Aion/" class="logo">
+          <a href="<?php echo($urlSite) ?>/Aion/" class="logo">
             <img src="<?php echo($texto)?>img/icons/Prancheta 1@0.5x.png" alt="Logo" class="logo-img" />
           </a>
           <ul class="nav_menu">
             <li class="nav_list">
-              <a href="../" class="nav_link">
+              <a href="<?php echo($urlSite) ?>/index.php" class="nav_link">
                 <span>Home</span>
               </a>
             </li>
@@ -29,7 +29,7 @@
                   <div class="dropdown-item">
                     <h5 class="item-heading no-margin">Instituto</h5>
 
-                    <a href="http://localhost/Aion/aion/instituto/aion.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/aion/instituto/aion.php">
                       <div class="item-list">
                        
                         <div class="item-list-info">
@@ -39,7 +39,7 @@
                       </div>
                     </a>
 
-                    <a href="http://localhost/Aion/aion/instituto/pessoas.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/aion/instituto/pessoas.php">
                     <div class="item-list">
                       
                       <div class="item-list-info">
@@ -60,7 +60,7 @@
                     </a>
 
 
-                    <a href="http://localhost/Aion/aion/instituto/investimentos.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/aion/instituto/investimentos.php">
                     <div class="item-list">
                      
                       <div class="item-list-info">
@@ -73,7 +73,7 @@
 
                   <div class="dropdown-item">
                     <h5 class="item-heading no-margin">Estrutura </h5>
-                    <a href="http://localhost/Aion/manutencao.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/manutencao.php">
                     <div class="item-list">
                      
                       <div class="item-list-info">
@@ -83,7 +83,7 @@
                     </div>
                     </a>
 
-                    <a href="http://localhost/Aion/aion/estrutura/instituto-tempo.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/aion/estrutura/instituto-tempo.php">
                     <div class="item-list">
                       
                       <div class="item-list-info">
@@ -93,7 +93,7 @@
                     </div>
                     </a>
 
-                    <a href="http://localhost/Aion/aion/estrutura/conag.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/aion/estrutura/conag.php">
                     <div class="item-list">
                      
                       <div class="item-list-info">
@@ -104,7 +104,7 @@
                     </a>
 
 
-                    <a href="http://localhost/Aion/aion/estrutura/operadores-e-gestores.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/aion/estrutura/operadores-e-gestores.php">
                     <div class="item-list">
                       
                       <div class="item-list-info">
@@ -120,7 +120,7 @@
                   <div class="dropdown-item">
                     <h5 class="item-heading no-margin">Coorporativa</h5>
                     
-                    <a href="http://localhost/Aion/manutencao.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/manutencao.php">
                     <div class="item-list">
                      
                       <div class="item-list-info">
@@ -130,7 +130,7 @@
                     </div>
                     </a>
 
-                    <a href="http://localhost/Aion/manutencao.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/manutencao.php">
                     <div class="item-list">
                      
                       <div class="item-list-info">
@@ -141,7 +141,7 @@
                     </div>
                     </a>
 
-                    <a href="http://localhost/Aion/manutencao.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/manutencao.php">
                     <div class="item-list">
                      
                       <div class="item-list-info">
@@ -151,7 +151,7 @@
                     </div>
                     </a>
 
-                    <a href="http://localhost/Aion/manutencao.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/manutencao.php">
                     <div class="item-list">
                      
                       <div class="item-list-info">
@@ -168,7 +168,7 @@
                     <h5 class="item-heading no-margin">Nossas Empresas</h5>
 
 
-                    <a href="http://localhost/Aion/aion/nossasEmpresas/pangeia.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/aion/nossasEmpresas/pangeia.php">
                     <div class="item-list">
                       <div class="item-img">
                         <img src="<?php echo($texto)?>img/iconesMenu/pangea.png" alt="Icon" />
@@ -180,7 +180,7 @@
                     </div>
                     </a>
 
-                    <a href="http://localhost/Aion/aion/nossasEmpresas/gaia.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/aion/nossasEmpresas/gaia.php">
                     <div class="item-list">
                       <div class="item-img">
                         <img src="<?php echo($texto)?>img/iconesMenu/gaia.png" alt="Icon" />
@@ -192,7 +192,7 @@
                     </div>
                     </a>
 
-                    <a href="http://localhost/Aion/aion/nossasEmpresas/education.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/aion/nossasEmpresas/education.php">
                     <div class="item-list">
                       <div class="item-img">
                         <img src="<?php echo($texto)?>img/iconesMenu/education.png" alt="Icon" />
@@ -233,7 +233,7 @@
                     <h5 class="item-heading no-margin">‎‎‎‎‎‎‎‎ㅤ</h5>
 
 
-                    <a href="http://localhost/Aion/prod_e_serv/paginas/saude.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/prod_e_serv/paginas/saude.php">
                       <div class="item-list">
                         <div class="item-img">
                           <img src="<?php echo($texto)?>img/icons/icons8-clinic-48.png" alt="Icon" />
@@ -244,7 +244,7 @@
                       </div>
                     </a>
 
-                    <a href="http://localhost/Aion/prod_e_serv/paginas/consultoria.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/prod_e_serv/paginas/consultoria.php">
                     <div class="item-list">
                       <div class="item-img">
                         <img src="<?php echo($texto)?>img/icons/icons8-rich-48.png" alt="Icon" />
@@ -256,7 +256,7 @@
                     </div>
                     </a>
 
-                    <a href="http://localhost/Aion/prod_e_serv/paginas/estruturacao.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/prod_e_serv/paginas/estruturacao.php">
                     <div class="item-list">
                       <div class="item-img">
                         <img src="<?php echo($texto)?>img/icons/icons8-puzzle-48.png" alt="Icon" />
@@ -268,7 +268,7 @@
                     </div>
                     </a>
               
-                    <a href="http://localhost/Aion/prod_e_serv/paginas/ConstrCivilEImobi.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/prod_e_serv/paginas/ConstrCivilEImobi.php">
                     <div class="item-list">
                       <div class="item-img">
                         <img src="<?php echo($texto)?>img/icons/icons8-bricklayer-48 (1).png" alt="Icon" />
@@ -289,7 +289,7 @@
                   <div class="dropdown-item">
                     <h3 class="item-heading no-margin">‎‎‎‎‎‎‎‎ㅤ</h3>
                     
-                    <a href="http://localhost/Aion/prod_e_serv/paginas/educacao.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/prod_e_serv/paginas/educacao.php">
                     <div class="item-list">
                       <div class="item-img">
                         <img src="<?php echo($texto)?>img/icons/icons8-graduation-cap-48.png" alt="Icon" />
@@ -300,7 +300,7 @@
                     </div>
                     </a>
 
-                    <a href="http://localhost/Aion/prod_e_serv/paginas/industrial.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/prod_e_serv/paginas/industrial.php">
                     <div class="item-list">
                       <div class="item-img">
                         <img src="<?php echo($texto)?>img/icons/icons8-industrial-48.png" alt="Icon" />
@@ -311,7 +311,7 @@
                     </div>
                     </a>
 
-                    <a href="http://localhost/Aion/prod_e_serv/paginas/mineracao.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/prod_e_serv/paginas/mineracao.php">
                     <div class="item-list">
                       <div class="item-img">
                         <img src="<?php echo($texto)?>img/icons/icons8-minecraft-pickaxe-48.png" style="width: 48px;" alt="Icon" />
@@ -323,7 +323,7 @@
                     </a>
 
 
-                    <a href="http://localhost/Aion/prod_e_serv/paginas/commodities.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/prod_e_serv/paginas/commodities.php">
                     <div class="item-list">
                       <div class="item-img">
                         <img src="<?php echo($texto)?>img/icons/icons8-corn-48.png" alt="Icon" />
@@ -340,7 +340,7 @@
                   <div class="dropdown-item">
                     <h3 class="item-heading no-margin">‎‎‎‎‎‎‎‎ㅤ</h3>
                     
-                    <a href="http://localhost/Aion/prod_e_serv/paginas/ativos.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/prod_e_serv/paginas/ativos.php">
                     <div class="item-list">
                       <div class="item-img">
                         <img src="<?php echo($texto)?>img/icons/icons8-bank-48.png" alt="Icon" />
@@ -351,7 +351,7 @@
                     </div>
                     </a>
 
-                    <a href="http://localhost/Aion/prod_e_serv/paginas/seguros.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/prod_e_serv/paginas/seguros.php">
                     <div class="item-list">
                       <div class="item-img">
                         <img src="<?php echo($texto)?>img/icons/icons8-equity-security-48.png" alt="Icon" />
@@ -362,7 +362,7 @@
                     </div>
                     </a>
 
-                    <a href="http://localhost/Aion/prod_e_serv/paginas/cieEtec.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/prod_e_serv/paginas/cieEtec.php">
                     <div class="item-list">
                       <div class="item-img">
                         <img src="<?php echo($texto)?>img/icons/icons8-biotech-48.png" alt="Icon" />
@@ -373,7 +373,7 @@
                     </div>
                     </a>
 
-                    <a href="http://localhost/Aion/prod_e_serv/paginas/comercio.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/prod_e_serv/paginas/comercio.php">
                     <div class="item-list">
                       <div class="item-img">
                         <img src="<?php echo($texto)?>img/icons/icons8-purchase-for-euro-48.png" alt="Icon" />
@@ -390,7 +390,7 @@
                   <div class="dropdown-item">
                     <h3 class="item-heading no-margin">‎‎‎‎‎‎‎‎ㅤ</h3>
                     
-                    <a href="http://localhost/Aion/prod_e_serv/paginas/profLiberais.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/prod_e_serv/paginas/profLiberais.php">
                     <div class="item-list">
                       <div class="item-img">
                         <img src="<?php echo($texto)?>img/icons/icons8-person-48 (1).png" alt="Icon" />
@@ -401,7 +401,7 @@
                     </div>
                     </a>
 
-                    <a href="http://localhost/Aion/prod_e_serv/paginas/entesPublicos.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/prod_e_serv/paginas/entesPublicos.php">
                     <div class="item-list">
                       <div class="item-img">
                         <img src="<?php echo($texto)?>img/icons/icons8-department-48.png" alt="Icon" />
@@ -412,7 +412,7 @@
                     </div>
                     </a>
 
-                    <a href="http://localhost/Aion/prod_e_serv/paginas/comunicacao.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/prod_e_serv/paginas/comunicacao.php">
                     <div class="item-list">
                       <div class="item-img">
                         <img src="<?php echo($texto)?>img/icons/icons8-group-task-48.png" alt="Icon" />
@@ -474,7 +474,7 @@
                     </div>
                     </a>
 
-                    <a href="http://localhost/Aion/projetos/paginas/condominioindustrial.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/projetos/paginas/condominioindustrial.php">
                     <div class="item-list">
                       <div class="item-img">
                         <img src="<?php echo($texto)?>img/icons/icons8-jungle-48.png" alt="Icon" />
@@ -487,7 +487,7 @@
                     </a>
                     
 
-                    <a href="http://localhost/Aion/projetos/paginas/dunes.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/projetos/paginas/dunes.php">
                     <div class="item-list">
                       <div class="item-img">
                         <img src="<?php echo($texto)?>img/icons/icons8-time-48.png" alt="Icon" />
@@ -504,7 +504,7 @@
                   <div class="dropdown-item">
                     <h6 class="item-heading no-margin">‎‎‎‎‎‎‎‎ㅤ</h6>
 
-                    <a href="http://localhost/Aion/projetos/paginas/landoftomorrow.php">
+                    <a href="<?php echo($urlSite) ?>/Aion/projetos/paginas/landoftomorrow.php">
                       <div class="item-list">
                         <div class="item-img">
                           <img src="<?php echo($texto)?>img/icons/Ativo 1@4x-152ff.svg" alt="Icon" />
