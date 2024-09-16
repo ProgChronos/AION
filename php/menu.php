@@ -1,5 +1,7 @@
 <?php 
   $texto = null;
+  echo( $_SERVER['REQUEST_URI']);
+
   if(isset($dentroDePasta)){
     $texto = "../../";
   }
@@ -12,7 +14,7 @@
           </a>
           <ul class="nav_menu">
             <li class="nav_list">
-              <a href="http://localhost/Aion/" class="nav_link">
+              <a href="../" class="nav_link">
                 <span>Home</span>
               </a>
             </li>
