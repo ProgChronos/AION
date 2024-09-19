@@ -24,13 +24,13 @@ include_once("php/menu.php");
      <div class="row">
          <div class="column xl-12">
              <h1 class="page-title">
-                 <span class="page-title__small-type text-pretitle">Contato</span>
-                Entre em contato
+                 <span class="page-title__small-type text-pretitle"></span>
+                 Legislação
              </h1>                            
          </div>
      </div>
 </section> <!--pageheader -->  
-
+<br>
 <section class="backgroundSectionBlack ">
     <div class="row row-x-center">
         <div class="column xl-6 md-12 " style="width: 100%;">

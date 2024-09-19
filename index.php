@@ -40,9 +40,6 @@ include_once("php/menu.php");
                             <p class="lead linecorret">
                                 <b>O GRUPO AION</b> é um conglomerado corporativo que tem como seu <b>CRIADOR / FUNDADOR o INSTITUTO AION DO BRASIL</b>, formado por grupos de empresas, instituições, produtos, serviços e negócios, que se movimentam nos 05 continentes e atuam nos segmentos: imobiliário, na saúde, commodities, ativos, seguros, nas industrias, tecnologias, consultorias e assessorias; e na comunicação com um único propósito, atender, as necessidades e anseios de seus <b>CLIENTES, PARCEIROS e do MERCADO,</b> como um todo.
                             </p>   
-
-                           
-                        
                     </div> <!-- end column -->
                 </div> <!-- end row -->
             </div>
