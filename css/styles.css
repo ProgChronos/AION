@@ -2858,7 +2858,7 @@ td:last-child {
 }
 
 .text-display-title {
-	font-size     : var(--text-display-2);
+	font-size     : var(--text-display-3);
 	line-height   : 1.0606;
 	letter-spacing: -0.012em;
 	color         : var(--color-text-dark);
@@ -4169,7 +4169,6 @@ td:last-child {
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	width: 100%;
-	height: calc(50vh);
 }
 
 .backgroundSectionYellow{
@@ -6622,7 +6621,7 @@ nav .nav-menu > li .dropdown-menu .right-section .dropdown-links li a:hover p {
 	  font-size: 2em;
 	}
 	#section-1 .content-slider .slider .banner .banner-inner-wrapper h1 {
-	  font-size: 4.5em;
+	  font-size: 2.5em;
 	}
 	#section-1 .content-slider .slider .banner .banner-inner-wrapper {
 	  padding-top: 5em;
@@ -6679,7 +6678,7 @@ nav .nav-menu > li .dropdown-menu .right-section .dropdown-links li a:hover p {
 	  font-size: 1.5em;
 	}
 	#section-1 .content-slider .slider .banner .banner-inner-wrapper h1 {
-	  font-size: 3em;
+	  font-size: 1em;
 	}
 	#section-1 .content-slider .slider .banner .banner-inner-wrapper .line {
 	  margin: 1.7em auto;

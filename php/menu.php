@@ -2,6 +2,13 @@
   $texto = null;
   $urlSite  = 'http://' . $_SERVER['HTTP_HOST'];
 
+  //RETIRAR NA SITE FORA DA PRODUÇÃO
+  if($urlSite == "http://localhost"){
+    $urlSite = 'http://' . $_SERVER['HTTP_HOST'] . "/AION";
+  }else{
+    $urlSite  = 'http://' . $_SERVER['HTTP_HOST'];
+  }
+
   if(isset($dentroDePasta)){
     $texto = "../../";
   }
@@ -141,7 +148,7 @@
                     </div>
                     </a>
 
-                    <a href="<?php echo($urlSite) ?>/manutencao.php">
+                    <a href="<?php echo($urlSite) ?>/aion/coorporativa/filiadosEassociados.php">
                     <div class="item-list">
                      
                       <div class="item-list-info">
@@ -546,7 +553,7 @@
             </li>
 
             <li class="nav_list">
-              <a href="#!" class="nav_link">
+              <a href="<?php echo($urlSite) ?>/contato.php" class="nav_link">
                 <span>Contato</span>
               </a>
             </li>

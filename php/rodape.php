@@ -2,18 +2,7 @@
         ================================================== -->
         <footer class="s-footer">
             <div class="row s-footer__content">
-            <div class="column xl-3 lg-6 md-12 s-footer__block s-footer__site-links">
-                    <h3>Aion</h3>
-                    <ul class="link-list">
-                        <li><a href="index.html">Inicio</a></li>
-                        <li><a href="services.html">EESG+</a></li>
-                        <li><a href="blog.html">Investimentos</a></li>
-                        <li><a href="about.html">Pessoas</a></li>
-                        <li><a href="contact.html">Conag</a></li>
-                        <li><a href="https://www.dreamhost.com/r.cgi?287326">Fiiados e Associados</a></li>
-                    </ul>
-                </div>
-                <div class="column xl-9 lg-6 md-12 s-footer__block s-footer__about">                    
+            <div class="column xl-9 lg-6 md-12 s-footer__block s-footer__about">                    
                     <h3>Sobre o Instituto</h3>
                     <p>
                     “Há um tempo que está fora de nossa percepção do tempo. Um tempo para o qual não passamos. Um tempo onde o antes, o agora, e o depois, se fundem e confundem. Nossos parâmetros de percepção, no entanto, nos obrigam a estudarmos mais profundamente os tempos como os conhecemos — passado, presente e futuro — à luz de nosso fugidio discernimento de um tempo sempre.”
@@ -23,7 +12,19 @@
                         <span>© Copyright Instituto Aion Brasil <?php echo(date("Y"))?></span> 
                     </p>          
                     
-                </div>          
+                </div>    
+            <div class="column xl-3 lg-6 md-12 s-footer__block s-footer__site-links">
+                    <h3>Aion</h3>
+                    <ul class="link-list">
+                        <li><a href="index.html">Inicio</a></li>
+                        <li><a href="index.html">Instituto</a></li>
+                        <li><a href="about.html">Pessoas</a></li>
+                        <li><a href="contact.html">Conag</a></li>
+                        <li><a href="https://www.dreamhost.com/r.cgi?287326">Fiiados e Associados</a></li>
+                        <li><a href="blog.html">Contato</a></li>
+                    </ul>
+                </div>
+                      
 
                 
             <div class="row s-footer__bottom">

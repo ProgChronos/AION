@@ -38,7 +38,7 @@ include_once("php/menu.php");
                         </div>  
                         <div class="grid-section-split__primary">
                             <p class="lead linecorret">
-                                <b>O GRUPO AION</b> é um conglomerado corporativo que tem como seu <b>CRIADOR / FUNDADOR o INSTITUTO AION DO BRASIL</b>, formado por grupos de empresas, instituições, produtos, serviços, e negócios, que se movimentam nos 05 continentes e atuam nos segmentos: imobiliário, na saúde, commodities, ativos, seguros, nas industrias, tecnologias, consultorias e assessorias; e na comunicação com um único propósito, atender, as necessidades e anseios de seus <b>CLIENTES, PARCEIROS e do MERCADO,</b> como um todo.
+                                <b>O GRUPO AION</b> é um conglomerado corporativo que tem como seu <b>CRIADOR / FUNDADOR o INSTITUTO AION DO BRASIL</b>, formado por grupos de empresas, instituições, produtos, serviços e negócios, que se movimentam nos 05 continentes e atuam nos segmentos: imobiliário, na saúde, commodities, ativos, seguros, nas industrias, tecnologias, consultorias e assessorias; e na comunicação com um único propósito, atender, as necessidades e anseios de seus <b>CLIENTES, PARCEIROS e do MERCADO,</b> como um todo.
                             </p>   
 
                            
@@ -75,8 +75,10 @@ include_once("php/menu.php");
 
                     <div class="s-cta__content">
                         <p class="lead text-center ">
-                        INSTITUIÇÃO fundadora e proprietária majoritária dos ativos integralizados dos fundos de investimento do GROUP CHRONOS;ACIONISTA, majoritária da HOLDING GROUP CHRONOS, está por sua vez é a acionista principal das empresas que integram o GROUP CHRONOS:
-                        <img src="images/hierarchy.png" alt="">
+                        INSTITUIÇÃO fundadora e proprietária majoritária dos ativos integralizados dos fundos de investimento do GROUP AION;ACIONISTA, majoritária da HOLDING GROUP AION, está por sua vez é a acionista principal das empresas que integram o GROUP AION:
+                        <a href="images/hierarchy.png" data-fancybox data-caption="">
+                    <img   src="images/hierarchy.png" srcset="images/hierarchy.png 1000w, images/hierarchy.png 500w" sizes="(max-width: 1000px) 100vw, 1000px" alt="">
+                </a>
                         </p>
 
                         <div class="s-expertise__content-main grid-section-split__primary">
