@@ -94,7 +94,7 @@
 
             <blockquote cite="http://where-i-got-my-info-from.com">
                 <p>
-                <b>O INSTITUTO CHRONOS DO BRASIL</b>, tem o compromisso, moral de todos os seus Membros Associados, <mark>de promover a doação e ou o investimento direto de 100,00%</mark>  de todo o lucro auferido, através do projeto, produtos e serviços, criados, desenvolvidos, administrados e geridos por Ele; <mark>para implementação de fundos assistenciais voltados ao desenvolvimento social sustentável.</mark>
+                <b>O INSTITUTO AION DO BRASIL</b>, tem o compromisso, moral de todos os seus Membros Associados, <mark>de promover a doação e ou o investimento direto de 100,00%</mark>  de todo o lucro auferido, através do projeto, produtos e serviços, criados, desenvolvidos, administrados e geridos por Ele; <mark>para implementação de fundos assistenciais voltados ao desenvolvimento social sustentável.</mark>
                 </p>
 
                 <footer>

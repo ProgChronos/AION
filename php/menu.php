@@ -211,14 +211,14 @@
                     </div>
                     </a>
 
-                    <a href="a">
+                    <a href="<?php echo($urlSite) ?>/legislacao.php">
                     <div class="item-list">
                       <div class="item-img">
-                        <img src="<?php echo($texto)?>img/icons/icons8-other-48.png" alt="Icon" />
+                      <i class="bi bi-file-pdf-fill"  style="font-size: 3rem;"></i>
                       </div>
                       <div class="item-list-info">
-                        <h6 class="no-margin">OUTRAS</h6>
-                        <p class="no-margin">Outras empresas</p>
+                        <h6 class="no-margin">Lesgilação</h6>
+                        <p class="no-margin">Documentos</p>
                       </div>
                     </div>
                     </a>
