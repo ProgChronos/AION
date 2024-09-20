@@ -19,7 +19,7 @@
 
 <div class="row row-x-center pt5">
     <div class="column tab-12 xl-9 ">
-        <p class="lead text-just"> Considerando que a essência da existência é perpassada por ele e suas esferas, e sendo todo movimento humano uma ambiciosa ação para ampliar esta fortuna.
+        <p class="lead text-just"> Considerando que a essência da existência é perpassada por ele (TEMPO)  e suas esferas, e sendo todo movimento humano uma ambiciosa ação para ampliar esta fortuna.
         </p><hr>
     </div>
 </div>
@@ -28,9 +28,7 @@
 <section class="backgroundSectionYellow " id="1">
     <div class="row">
         <div class="xl-6 tab-12 column" >
-            <figure>
-                <a id="single_3" href="images/64824.jpg" title="Twilight Memories (doraartem)"><img src="images/64824.jpg" alt="" /></a>
-            </figure>
+            <?php image("images/64824.jpg","");?>
         </div>
             
         <div class="xl-6 tab-12 column" > 
@@ -53,9 +51,8 @@
         </div>
 
         <div class="xl-6 tab-12 column" >
-            <figure>
-                <a id="single_3" href="images/image-1.webp" title="Twilight Memories (doraartem)"><img src="images/image-1.webp" alt="" /></a>
-            </figure>
+        <?php image("images/image-1.webp","");?>
+
         </div>
     </div> 
 </section>
@@ -64,8 +61,9 @@
     <div class="row">
         <div class="xl-6 tab-12 column" > 
             <h2>Prosperidade</h2>
-            <a id="single_3" href="images/7243.jpg" title=""><img src="images/7243.jpg" alt="" /></a>
-            </figure>
+            <?php image("images/7243.jpg","");?>
+
+     
             <p class="lead" >
             Ao produzir negócios, projetos, produtos e serviços que cumprem com o prometido, é evidenciado o sucesso e o êxito, medido não só economicamente, mas evidenciado no contentamento, na paz, no orgulho de conseguir equilibrar a felicidade de dar e receber.
             </p>
@@ -73,9 +71,9 @@
 
         <div class="xl-6 tab-12 column" >
             <h2>Segurança</h2>
-            <a id="single_3" href="images/2149101181.jpg" title="Twilight Memories (doraartem)"><img src="images/2149101181.jpg" alt="" /></a>
+            <?php image("images/2149101181.jpg","");?>
             <p class="lead" >
-                Quando elaboramos projetos, negócios, produtos e serviços, realizamos este ato, elaborando um conjunto de soluções técnicas calculadas com escalas variadas de volumetria e avaliada por uma equipe multidisciplinar, afim de assegurar a minimização dos riscos.Por isso, utilizamos um sistema de Compliance ágil e seguro, para que possamos focar no que de fato importa.
+                Quando elaboramos projetos, negócios, produtos e serviços, realizamos este ato, elaborando um conjunto de soluções técnicas calculadas com escalas variadas de volumetria e avaliada por uma equipe multidisciplinar, afim de assegurar a minimização dos riscos. Por isso, utilizamos um sistema de Compliance ágil e seguro, para que possamos focar no que de fato importa.
             </p>
         </div>
     </div> 
@@ -85,18 +83,22 @@
     <div class="row">
         <div class="xl-6 tab-12 column white-text" > 
             <h2 class="white-text">Arte</h2>
-            <a id="single_3" href="images/563.jpg" title="Twilight Memories (doraartem)"><img src="images/563.jpg" alt="" /></a>
+  
+            <?php image("images/563.jpg","");?>
+
             </figure>
-            <p class="lead" >
-            A arte começa onde a imitação acaba. - Oscar Wilde Criar projetos, negócios, produtos e serviços que encantem as pessoas, requer uma exigência: originalidade. Ao primarmos por isso, enxergamos em cada projeto, negócio, produto e serviço, a oportunidade de promover comunicação de forma simbólica e criativa com a sociedade. Uma obra de arte transmite ideias, sentimentos, crenças ou emoções e fomenta a reflexão.
+            <p class="lead text-just" >
+            <i>A arte começa onde a imitação acaba.</i> - Oscar Wilde <br>Criar projetos, negócios, produtos e serviços que encantem as pessoas, requer uma exigência: originalidade. Ao primarmos por isso, enxergamos em cada projeto, negócio, produto e serviço, a oportunidade de promover comunicação de forma simbólica e criativa com a sociedade. Uma obra de arte transmite ideias, sentimentos, crenças ou emoções e fomenta a reflexão.
             </p>
         </div>
 
         <div class="xl-6 tab-12 column white-text" >
             <h2 class="white-text">Legado</h2>
-            <a id="single_3" href="images/7243.jpg" title="Twilight Memories (doraartem)"><img src="images/7243.jpg" alt="" /></a>
+            
+            <?php image("images/19664.jpg","");?>
+
             <p class="lead" >
-            O ciclo da vida humana é delineado por fases, quedemarcam o nosso desenvolvimento (nascer, crescer e morrer), ao longo disto, através das nossas escolhas produzimos marcas em nossas relações que perpetuadas no tempo, tornam-se um legado, uma herança deixada acerca dos nossos feitos extraordinários Todas iniciativas do Grupo Chronos são elaboradas a fim de promover transformações na sociedade, na economia e no indivíduo, de forma a levar adiante osenso deste propósito.
+            O ciclo da vida humana é delineado por fases, que demarcam o nosso desenvolvimento (nascer, crescer e morrer), ao longo disto, através das nossas escolhas produzimos marcas em nossas relações que perpetuadas no tempo, tornam-se um legado, uma herança deixada acerca dos nossos feitos extraordinários. Todas iniciativas do <b class="white-text">GRUPO AION</b> são elaboradas a fim de promover transformações na sociedade, na economia e no indivíduo, de forma a levar adiante osenso deste propósito.
             </p>
         </div>
     </div> 

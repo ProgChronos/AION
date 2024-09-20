@@ -277,7 +277,7 @@ include_once("php/projetos.php");
                             </h2>     
                             
                             <p class="lead">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum suscipit debitis quam dignissimos veritatis atque pariatur magnam obcaecati fugit reprehenderit vel numquam facere esse est deserunt, perferendis commodi voluptatem similique.
+                            É a própria sustentabilidade empresarial, ela indica que as empresas que a praticam, mostram a sua solidez, custos mais baixos, melhor reputação e maior resiliência em meio às incertezas e vulnerabilidades.
                             </p>
                         </div> <!-- end section-header -->
 
@@ -286,49 +286,41 @@ include_once("php/projetos.php");
                             <div class="grid-list-items list-items show-ctr">
                                 <div class="grid-list-items__item list-items__item">
                                     <div class="grid-list-items__title list-items__item-header">
-                                        <h3 class="list-items__item-title">Digital Marketing</h3>
+                                        <h3 class="list-items__item-title">Porque um "E" a mais?</h3>
                                     </div>
                                     <div class="grid-list-items__text list-items__item-text">
                                         <p>
-                                        Quibusdam quis autem voluptatibus earum vel ex error ea magni. Rerum quam quos. Aut asperiores 
-                                        sit mollitia. Rem neque et voluptatem eos quia sed eligendi et. Eaque velit eligendi ut 
-                                        magnam. Cumque ducimus laborum doloribus facere maxime vel earum quidem enim suscipit.
+                                        Ao acrescentarmos mais um E na sigla, estamos reafirmando o compromisso com a economia em todos nossos projetos, negócios, produtos e serviços, além de acrescentarmos o símbolo "+", pois sabemos que o ESG é apenas uma pequena parte do que pode ser feito para mudar o mundo.
                                         </p>
                                     </div>
                                 </div> <!-- list-item -->
                                 <div class="grid-list-items__item list-items__item">
                                     <div class="grid-list-items__title list-items__item-header">
-                                        <h3 class="list-items__item-title">Project Management</h3>
+                                        <h3 class="list-items__item-title">Educação</h3>
                                     </div>
                                     <div class="grid-list-items__text list-items__item-text">
                                         <p>
-                                        Rerum quam quos. Quibusdam quis autem voluptatibus earum vel ex error ea magni. Aut asperiores 
-                                        sit mollitia. Rem neque et voluptatem eos quia sed eligendi et. Eaque velit eligendi ut 
-                                        magnam. Cumque ducimus laborum doloribus facere maxime vel earum quidem enim suscipit.
+                                        Torna-se o principal método de uma gestão estruturada de recursos, para geração de oportunidades e mudanças efetivas na sociedade. Considerando, que nossos pensamentos são sementes e nossas ações são frutos, investir na educação é plantar hoje, para colher novas oportunidades amanhã. 
                                         </p>
                                     </div>
                                 </div> <!-- list-expertise__item -->
                                 <div class="grid-list-items__item list-items__item">
                                     <div class="grid-list-items__title list-items__item-header">
-                                        <h3 class="list-items__item-title">Content Marketing</h3>
+                                        <h3 class="list-items__item-title">Compliance</h3>
                                     </div>
                                     <div class="grid-list-items__text list-items__item-text">
                                         <p>
-                                        Eaque velit eligend. iQuibusdam quis autem voluptatibus earum vel ex error ea magni. 
-                                        Rerum quam quos. Aut asperiores sit mollitia. Rem neque et voluptatem eos quia sed eligendi et. 
-                                        Eaque velit eligendi ut magnam. Cumque ducimus laborum doloribus facere maxime vel earum quidem enim suscipit.
+                                        O INSTITUTO, através das suas especialidades e atribuições, consegue realizar um COMPLIANCE completo, assim, analisando de forma técnica e eficaz os lados positivos e negativos dos nossos negócios, parceiros e clientes, buscando minimizar os lados negativos e maximizar o lado positivo. 
                                         </p>
                                     </div>
                                 </div> <!-- list-expertise__item -->
                                 <div class="grid-list-items__item list-items__item">
                                     <div class="grid-list-items__title list-items__item-header">
-                                        <h3 class="list-items__item-title">Research & Discovery</h3>
+                                        <h3 class="list-items__item-title">Empreendedorismo </h3>
                                     </div>
                                     <div class="grid-list-items__text list-items__item-text">
                                         <p>
-                                        Quibusdam quis autem voluptatibus earum vel ex error ea magni. Rerum quam quos. Aut asperiores 
-                                        sit mollitia. Rem neque et voluptatem eos quia sed eligendi et. Eaque velit eligendi ut 
-                                        magnam. Cumque ducimus laborum doloribus facere maxime vel earum quidem enim suscipit.
+                                        Por acreditarmos no empreendedorismo, entendemos que o empresário, acima de tudo, é um ser realizador, que produz novas ideias por meio da congruência entre conhecimento e criatividade. Logo, o empreendedorismo funciona como um acelerador no crescimento de novas iniciativas.
                                         </p>
                                     </div>
                                 </div> <!-- list-expertise__item -->
@@ -337,7 +329,7 @@ include_once("php/projetos.php");
                         </div> <!-- end s-expertise__content-main -->
 
                         <div class="s-expertise__content-btn grid-section-split__bottom">
-                            <a href="services.html" class="btn btn--primary u-fullwidth">Saiba Mais Sobre</a>
+                            <a href="<?php echo($urlSite) ?>/aion/instituto/eesg.php" class="btn btn--primary u-fullwidth">Saiba Mais Sobre</a>
                         </div> <!-- end s-about__content-btn -->
 
                     </div> <!-- end grid-block-->

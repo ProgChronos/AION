@@ -31,9 +31,7 @@
 
 <section class="backgroundSectionYellow " id="1">
 <div class="row">
-            
                         <div class="xl-6 tab-12 column" >
-
                         <a href="images/aionbrasao.png" data-fancybox data-caption="">
                     <img  class="sombraCinza" src="images/aionbrasao.png" srcset="images/aionbrasao.png 1000w, images/aionbrasao.png 500w" sizes="(max-width: 1000px) 100vw, 1000px" alt="">
                 </a>
@@ -92,7 +90,7 @@
             
             <h3 class="h-add-bottom">Compromisso</h3>
 
-            <blockquote cite="http://where-i-got-my-info-from.com">
+            <blockquote>
                 <p>
                 <b>O INSTITUTO AION DO BRASIL</b>, tem o compromisso, moral de todos os seus Membros Associados, <mark>de promover a doação e ou o investimento direto de 100,00%</mark>  de todo o lucro auferido, através do projeto, produtos e serviços, criados, desenvolvidos, administrados e geridos por Ele; <mark>para implementação de fundos assistenciais voltados ao desenvolvimento social sustentável.</mark>
                 </p>
@@ -152,7 +150,7 @@
     <div class="row row-x-center">
         <div class="column xl-6 md-12 ">
             <h3 class="h-add-bottom white-text"><i class="bi bi-crosshair2"></i> MISSÃO</h3>
-            <blockquote class="white" cite="http://where-i-got-my-info-from.com">
+            <blockquote class="white">
             <p class="white-text">
             Despertar a consciência do <mark>sempre</mark>, para <mark>além do agora.</mark>
             </p>
@@ -166,7 +164,7 @@
 
         <div class="column xl-6 md-12 ">
             <h3 class="h-add-bottom white-text"><i class="bi bi-eye-fill"></i> VISÃO</h3>
-            <blockquote class="white" cite="http://where-i-got-my-info-from.com">
+            <blockquote class="white">
             <p class="white-text">
             <mark>A eternidade</mark> concebe a todos que despertam:
             a criatividade, o amor e os sonhos, <mark>pois na presença destes, não existem impossibilidades.</mark>            
@@ -218,7 +216,7 @@ INTUIÇÃO
         <div class="column xl-6 md-12 " style="width: 100%;">
             <h3 class="h-add-bottom white-text"><MARK>VALORES</MARK> - CONHECIMENTO</h3>
 
-            <blockquote class="white" cite="http://where-i-got-my-info-from.com">
+            <blockquote class="white">
             <div class="row row-x-center">
                 <div class="column xl-6 md-12 ">
                     <p class="white-text">
@@ -250,7 +248,7 @@ INTUIÇÃO
         <div class="column xl-6 md-12 " style="width: 100%;">
             <h3 class="h-add-bottom "><MARK>VALORES</MARK> - SENTIMENTO</h3>
 
-            <blockquote  cite="http://where-i-got-my-info-from.com">
+            <blockquote >
             <div class="row row-x-center">
 
             <div class="column xl-6 md-12 ">
@@ -284,7 +282,7 @@ INTUIÇÃO
         <div class="column xl-6 md-12 " style="width: 100%;">
             <h3 class="h-add-bottom white-text"><MARK>VALORES</MARK> - PENSAMENTO</h3>
 
-            <blockquote class="white" cite="http://where-i-got-my-info-from.com">
+            <blockquote class="white">
             <div class="row row-x-center">
                 <div class="column xl-6 md-12 ">
                     <p class="amarelo-text lead linecorret text-just pmnone fw300">
@@ -319,7 +317,7 @@ INTUIÇÃO
         <div class="column xl-6 md-12 " style="width: 100%;">
             <h3 class="h-add-bottom "><MARK>VALORES</MARK> - MOVIMENTO</h3>
 
-            <blockquote  cite="http://where-i-got-my-info-from.com">
+            <blockquote >
             <div class="row row-x-center">
 
             <div class="column xl-6 md-12 ">
@@ -361,7 +359,7 @@ INTUIÇÃO
         <div class="column xl-6 md-12 " style="width: 100%;">
             <h3 class="h-add-bottom white-text"><MARK>VALORES</MARK> - INTUIÇÃO</h3>
 
-            <blockquote class="white" cite="http://where-i-got-my-info-from.com">
+            <blockquote class="white">
             <div class="row row-x-center">
                 <div class="column xl-6 md-12 ">
                     <p class="white-text lead linecorret text-just pmnone fw300">

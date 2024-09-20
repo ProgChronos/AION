@@ -20,7 +20,7 @@
         <div class="row">
             <div class="xl-6 tab-12 column" > 
                 <p class="lead white-text">
-                    O <b class="white-text">INSTITUTO AION DO BRASIL</b>, é a detentora da <b class="white-text">PROPRIEDADE INTELECTUAL</b>, da maioria dos projetos, produtos e serviços, criados, desenvolvidos, administrados e ou sobre a gestão do <b class="white-text">GRUPO AION</b>. <br><br>
+                    O <b class="white-text">INSTITUTO AION DO BRASIL</b>, é a detentora da <b class="white-text">PROPRIEDADE INTELECTUAL</b> da maioria dos projetos, produtos e serviços, criados, desenvolvidos, administrados e ou sobre a gestão do <b class="white-text">GRUPO AION</b>. <br><br>
 
                     O <mark>INSTITUTO</mark>, tem a responsabilidade em promover a aprovação e deliberação de todos os investimentos, aplicações, financiamentos, empréstimos e outros de ordem financeira, juntamente com a criação, idealização e ou aprovação de toda a parte <mark>INTELECTUAL</mark> para todos os:
 

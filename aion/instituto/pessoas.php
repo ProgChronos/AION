@@ -20,7 +20,7 @@
             
                         <div class="xl-4 md-12 column">
                             <p class="lead">
-                            Enquanto vivemos, trabalhamos e nos movemos, <mark>estamos produzindo</mark> história e transformações no nosso entorno. O <b>INSTITUTO CHRONOS DO BRASIL</b>Reconhece a importância disso, pois 
+                            Enquanto vivemos, trabalhamos e nos movemos, <mark>estamos produzindo</mark> história e transformações no nosso entorno. O <b>INSTITUTO AION DO BRASIL</b>Reconhece a importância disso, pois 
                             </p>
                         </div>
             
@@ -111,7 +111,7 @@
 
 <blockquote class="white" cite="http://where-i-got-my-info-from.com">
 <p class="white-text">
-<b class="white-text">“CORPSOCIAL – CORPORATE SOCIAL ECONOMIC STRATEGY PLAN”</b>, tendo em <mark>suas bases corporativas e institucionais, equipes especializadas, multidisciplinares técnicas e comerciais</mark>, aptas a desenvolverem e <mark>utilizarem metodologias especificas> e exclusivas</mark> em todas as fazes de criação, desenvolvimento, estruturação, implantação, administração e gestão de todos os processos administrativos e operacionais,<mark>de todos os projetos, negócios, produtos</mark>, serviços e estruturas corporativas.
+<b class="white-text">“CORPSOCIAL – CORPORATE SOCIAL ECONOMIC STRATEGY PLAN”</b>, tendo em <mark>suas bases corporativas e institucionais, equipes especializadas, multidisciplinares técnicas e comerciais</mark>, aptas a desenvolverem e <mark>utilizarem metodologias especificas e exclusivas</mark> em todas as fases de criação, desenvolvimento, estruturação, implantação, administração e gestão de todos os processos administrativos e operacionais,<mark>de todos os projetos, negócios, produtos</mark>, serviços e estruturas corporativas.
 </p>
 
 <footer>

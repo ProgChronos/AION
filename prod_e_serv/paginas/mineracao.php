@@ -48,7 +48,7 @@ BGSYellow('244.jpg');
 <p class="pt5 lead linecorret text-just pmnone fw300">
 
 
-Nosso investimento em mineração sustentável visa criar um impacto positivo significativo em várias áreas:<br>
+Nosso investimento em mineração sustentável visa criar um impacto positivo significativo em várias áreas: <br><br> 
 
 <b>Fomento ao Desenvolvimento Tecnológico:</b> Os recursos minerais são cruciais para o avanço tecnológico. Investimos em mineração para fornecer a matéria-prima necessária para o desenvolvimento de novas tecnologias e materiais inovadores.<br><br>
 

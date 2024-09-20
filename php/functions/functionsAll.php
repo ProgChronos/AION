@@ -8,4 +8,11 @@
     include_once('BGSClose.php');
     include_once('BGSBlack.php');
     include_once('imageUnica.php');
+    include_once('image.php');
+    include_once('imageUnicaFlex.php');
+
+ 
+
+
+
     
