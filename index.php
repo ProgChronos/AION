@@ -143,21 +143,35 @@ include_once("php/menu.php");
             <div class="swiper-wrapper">
 
                 <?php 
-                    Servicos("Saúde","","","images/servicos/new/saude.jpg","");
-                    Servicos("Consultoria e Assessoria","","","images/servicos/11082.jpg","");
-                    Servicos("Estruturação e Re-Estruturação","","","images/servicos/new/Estruturacao.jpg","");
-                    Servicos("Construção Civil & Imobiliária","","","images/servicos/new/construcao.jpg","");
-                    Servicos("Educação","","","images/servicos/new/educacao.jpg","");
-                    Servicos("Industrial","","","images/servicos/new/industrial.jpg","");
-                    Servicos("Mineração","","","images/servicos/new/mineracao.jpg",""); //
-                    Servicos("Commodities","","","images/servicos/new/commodits.jpg","");
-                    Servicos("Ativos","","","images/servicos/new/ativos.jpg","");
-                    Servicos("Seguros","","","images/servicos/new/seguros.jpg","");
-                    Servicos("Ciência & Tecnologia","","","images/servicos/ciencia.jpg","");
-                    Servicos("Comércio","","","images/servicos/64.jpg",""); //
-                    Servicos("Profissionais Liberais","","","images/servicos/5638.jpg","");
-                    Servicos("Entes Públicos","","","images/servicos/13345.jpg","");
-                    Servicos("Comunicação","","","images/servicos/2148911819.jpg","");
+                    Servicos("Saúde","","","images/servicos/new/saude.jpg","/prod_e_serv/paginas/saude.php");
+
+                    Servicos("Consultoria e Assessoria","","","images/servicos/11082.jpg","/prod_e_serv/paginas/consultoria.php");
+
+                    Servicos("Estruturação e Re-Estruturação","","","images/servicos/new/Estruturacao.jpg","/prod_e_serv/paginas/estruturacao.php");
+
+                    Servicos("Construção Civil & Imobiliária","","","images/servicos/new/construcao.jpg","/prod_e_serv/paginas/ConstrCivilEImobi.php");
+
+                    Servicos("Educação","","","images/servicos/new/educacao.jpg","/prod_e_serv/paginas/educacao.php");
+
+                    Servicos("Industrial","","","images/servicos/new/industrial.jpg","/prod_e_serv/paginas/industrial.php");
+
+                    Servicos("Mineração","","","images/servicos/new/mineracao.jpg","/prod_e_serv/paginas/mineracao.php"); //
+
+                    Servicos("Commodities","","","images/servicos/new/commodits.jpg","/prod_e_serv/paginas/commodities.php");
+
+                    Servicos("Ativos","","","images/servicos/new/ativos.jpg","/prod_e_serv/paginas/ativos.php");
+
+                    Servicos("Seguros","","","images/servicos/new/seguros.jpg","/prod_e_serv/paginas/seguros.php");
+
+                    Servicos("Ciência & Tecnologia","","","images/servicos/ciencia.jpg","/prod_e_serv/paginas/cieEtec.php");
+
+                    Servicos("Comércio","","","images/servicos/64.jpg","/prod_e_serv/paginas/comercio.php"); //
+
+                    Servicos("Profissionais Liberais","","","images/servicos/5638.jpg","/prod_e_serv/paginas/profLiberais.php");
+
+                    Servicos("Entes Públicos","","","images/servicos/13345.jpg","/prod_e_serv/paginas/entesPublicos.php");
+
+                    Servicos("Comunicação","","","images/servicos/2148911819.jpg","/prod_e_serv/paginas/comunicacao.php");
                 ?>
 
                 </div> 
