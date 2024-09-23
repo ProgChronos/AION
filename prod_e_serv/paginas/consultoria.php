@@ -10,7 +10,7 @@
 <section class="pt5 backgroundSectionYellow" id="1">
     <div class="row">
         <div class="xl-6 tab-12 column">
-            <h4 class="h-add-bottom no-margin">Desenvolvemos, implantamos e administramos:</h4>
+            <h3 class="h-add-bottom no-margin text-just">Desenvolvemos, implantamos e administramos:</h3>
             <p class="pt5 lead linecorret text-just pmnone fw300" style="text-align: justify;">
             Desenvolvemos projetos próprios e para clientes/parceiros, realizando toda a análise técnica e pesquisa necessária, além de oferecer consultoria e assessoria para o desenvolvimento dos mesmos.<br><br> Nossos produtos são oferecidos com o melhor custo-benefício, qualidade e durabilidade. Atuamos em negócios de diferentes tamanhos (pequenos, médios e grandes), com serviços especializados, rápidos e precisos. Em operações, gerenciamos aspectos financeiros internacionais e nacionais, tributários e contábeis.<br><br> Trabalhamos com total transparência em todos os níveis corporativos, oferecendo planejamento estratégico, técnico, analítico e multisetorial, além de capacitarmos, estimulamos e promovemos o desenvolvimento dos nossos clientes e parceiros.
 
@@ -37,7 +37,7 @@
         </div>
 
         <div class="xl-6 tab-12 column">
-            <h4 class="h-add-bottom no-margin">As especialidades e atribuições do <b>INSTITUTO AION DO BRASIL</b>. Consultoria e assessoria técnica de :</h4>
+            <h3 class="h-add-bottom no-margin text-just">As especialidades e atribuições do <b>INSTITUTO AION DO BRASIL</b>. Consultoria e assessoria técnica de :</h3>
                 <d1 class="dictionary-style pt5 ">
                     <dd class="lead">Financeira, para a captação e investimentos;</dd>
                     <dd class="lead">Mercadológica;</dd>
@@ -59,9 +59,9 @@
 <div class="row row-x-center text-center">
     <div class="column xl-9 lg-12">
         <div class="s-cta__content">
-            <h3 class="text-display-title">
+            <h4 class="text-display-title">
             Porque fazemos o que fazemos?
-            </h3>      
+            </h4>      
         </div>
     </div>
 </div>

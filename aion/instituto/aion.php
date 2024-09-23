@@ -7,17 +7,18 @@
     headerTop('images/header/aionHeader.jpg','O tempo é o único verdadeiro capital de qualquer ser humano.<br> E é a única coisa que ele pode perder sem ter.','Thomas Edison');
 
 ?>
-<nav class="pgn" style="margin: 0;margin-top: 42px;">
-                                <ul>
-                        
-                                    <li><a class="pgn__num" href="#1">Quem é?</a></li>
-                                    <li><a class="pgn__num" href="#2">Compromisso</a></li>
-                                    <li><a class="pgn__num" href="#4">Missão</a></li>
-                                    <li><a class="pgn__num" href="#5">Visão</a></li>
-                                    <li><a class="pgn__num" href="#6">Valores</a></li>
-                                    <li><a class="pgn__num" href="#7">História</a></li>
-                                </ul>
-                            </nav>
+
+<section>
+    <nav class="menupagina">
+        <a class="pgn__num" href="#1">Quem é?</a>
+        <a class="pgn__num" href="#2">Compromisso</a>
+        <a class="pgn__num" href="#3">Missão</a>
+        <a class="pgn__num" href="#4">Visão</a>
+        <a class="pgn__num" href="#5">Valores</a>
+        <a class="pgn__num" href="#6">História</a>
+    </nav>
+</section>
+
 <div class="row row-x-center text-center pt5">
     <div class="column tab-12 xl-9">
         <p class="lead">O <b>INSTITUTO</b> é a controladora da <mark>"HOLDING AION GROUP OF BRAZIL S/A"</mark> Pois, como acionista, detém 70,00% (setenta por cento) das cotas / ações da <mark>"HOLDING"</mark>;
@@ -27,7 +28,8 @@
 
         </p>
     <hr>
-</div></div>
+</div>
+</div>
 
 <section class="backgroundSectionYellow " id="1">
 <div class="row">

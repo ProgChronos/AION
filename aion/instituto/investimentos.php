@@ -8,14 +8,17 @@
 
 ?>
 
-<nav class="pgn" style="margin: 0;margin-top: 42px;">
-    <ul>
-        <li><a class="pgn__num" href="#1">Tempo</a></li>
-        <li><a class="pgn__num" href="#2">Sustentabilidade </a></li>
-        <li><a class="pgn__num" href="#3">Prosperidade / Segurança</a></li>
-        <li><a class="pgn__num" href="#4">Arte / Legado</a></li>
-    </ul>
-</nav>
+<section>
+    <nav class="menupagina">
+            <a class="pgn__num" href="#1">Tempo</a>
+            <a class="pgn__num" href="#2">Sustentabilidade </a>
+            <a class="pgn__num" href="#3">Prosperidade / Segurança</a>
+            <a class="pgn__num" href="#4">Arte / Legado</a>
+    </nav>
+</section>
+
+
+
 
 <div class="row row-x-center pt5">
     <div class="column tab-12 xl-9 ">

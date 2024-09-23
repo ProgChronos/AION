@@ -127,7 +127,7 @@
                   <div class="dropdown-item">
                     <h5 class="item-heading no-margin">Coorporativa</h5>
                     
-                    <a href="<?php echo($urlSite) ?>/manutencao.php">
+                    <a href="<?php echo($urlSite) ?>/aion/coorporativa/corpsocial.php">
                     <div class="item-list">
                      
                       <div class="item-list-info">

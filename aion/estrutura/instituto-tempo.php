@@ -6,6 +6,15 @@
 
     headerTop('images/2151570652.jpg','“O TEMPO é a moeda mais preciosa que temos, cujo o valor não podemos exprimir.”','Equipe Aion');
 
+    ?>
+<section>
+    <nav class="menupagina">
+        <a class="pgn__num" href="#1">Instituto</a>
+        <a class="pgn__num" href="#2">Objetivo</a>
+    </nav>
+</section>
+    <?php
+
     BGSYellow2('35999.jpg'); ?>   
         <p class="lead" >
             Somos uma <b>INSTITUIÇÃO</b>, 100% brasileira, de direito privado, sem fins lucrativos de cunho social, assistencialista e de caráter associativo.
@@ -16,7 +25,7 @@
     </div> 
     <?php Bclose();?>
 
-    <section class="backgroundSectionBlack" >
+    <section class="backgroundSectionBlack" id="1">
         <div class="row">
             <div class="xl-6 tab-12 column" > 
                 <p class="lead white-text">
@@ -46,7 +55,7 @@
     <?php
     
     BGSYellow2('613.jpg'); ?>   
-        <p class="lead" >
+        <p class="lead" id="2">
             <br><br>
         Além de aprovar ou não a venda, compra ou a alienação de bens móveis, imóveis, ativos financeiros e outros, de controle e ou de interesse do <mark>GRUPO</mark>. <br><br>
 

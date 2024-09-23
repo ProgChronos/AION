@@ -9,7 +9,7 @@
     BGSYellow('592.jpg');
 ?>
 
-<h4 class="text-just no-margin">A Aion oferece uma vasta gama de soluções financeiras e serviços especializados para atender às suas necessidades em diferentes setores.</h4>
+<h3 class="text-just no-margin">A Aion oferece uma vasta gama de soluções financeiras e serviços especializados para atender às suas necessidades em diferentes setores.</h3>
 
 <p class="pt5 lead linecorret text-just pmnone fw300">
 Nossa expertise inclui financiamento de imóveis, facilitando a aquisição de propriedades residenciais e comerciais, e financiamento de veículos para tornar a compra de carros novos ou usados mais acessível. Além disso, proporcionamos financiamento de infraestruturas para apoiar grandes projetos e melhorias estruturais, e financiamento corporativo para impulsionar o crescimento e a expansão das empresas.<br><br>
@@ -48,7 +48,7 @@ Na Aion, estamos dedicados a fornecer soluções personalizadas e eficazes para 
 BGSYellow('2148621071.jpg');
 ?>
 
-<h4 class="text-just no-margin">Por que fazemos o que fazemos?</h4>
+<h3 class="text-just no-margin">Por que fazemos o que fazemos?</h3>
 
 <p class="pt5 lead linecorret text-just pmnone fw300">
 

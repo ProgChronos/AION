@@ -8,7 +8,7 @@
 
     BGSYellow('seg02_1670961261.webp');
 ?>
-<h4 class="no-margin">Atuação nos produtos e serviços:</h4>
+<h3 class="no-margin">Atuação nos produtos e serviços:</h3>
 
 <p class="pt5 lead linecorret text-just pmnone fw300">
 

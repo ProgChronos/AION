@@ -11,7 +11,7 @@
     BGSYellow('1414.jpg');
 
     ?>
-   <h4 class="no-margin">Aion Educ.:</h4>
+   <h3 class="no-margin">Aion Educ.:</h3>
 
    <p class="pt5 lead linecorret text-just pmnone fw300" style="text-align: justify;">
    Oferecemos financiamento integral para estudos e soluções avançadas para antecipação e securitização de recebíveis.<br><br> Nosso compromisso inclui a construção e reforma de escolas, aquisição de imóveis e material didático, além da montagem de laboratórios.<br><br> Garantimos antecipação salarial e um abrangente plano de benefícios sociais para alunos, educadores e funcionários. Também asseguramos transporte e alimentação adequados para alunos, funcionários e educadores.</p>
@@ -54,7 +54,7 @@ Acreditamos que conhecimento é poder. Utilizamos nosso saber para combater as d
     BGSYellow('2151164274.jpg');
 
 ?>
-<h4 class="no-margin">Nosso compromisso:</h4>
+<h3 class="no-margin">Nosso compromisso:</h3>
 
 <p class="pt5 lead linecorret text-just pmnone fw300" style="text-align: justify;">
  

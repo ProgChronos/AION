@@ -9,7 +9,7 @@
     BGSYellow('1419.jpg');
 ?>
 
-<h4 class="text-center no-margin">Atuação nos produtos e serviços:</h4>
+<h3 class="no-margin">Atuação nos produtos e serviços:</h3>
 
 
 

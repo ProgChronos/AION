@@ -18,7 +18,7 @@
 
 
         <div class="xl-6 tab-12 column">
-            <h2 class="h-add-bottom no-margin">Atuação nos serviços:</h2>
+            <h3 class=" h-add-bottom no-margin">Atuação nos serviços:</h3>
                 <p class="pt5 lead linecorrettext-just pmnone" style="text-align: justify;">
                 Oferecemos uma solução abrangente de saúde e bem-estar, com um plano de saúde completo que cobre consultas, exames, internações e tratamentos, além de um plano odontológico para cuidados com a saúde bucal, incluindo consultas, prevenção e tratamentos especializados.<br><br> Contamos com um plano de medicamentos que oferece descontos exclusivos, facilitando o acesso aos remédios necessários. Para maior comodidade, disponibilizamos atendimento médico domiciliar, com assistência no conforto do seu lar, e atendimento 24 horas para urgências e emergências, garantindo suporte rápido e eficaz sempre que necessário.<br><br> Nossos serviços também incluem opções de descontos em diversas áreas de saúde e bem-estar, além de um plano de auxílio funeral, que proporciona apoio em momentos difíceis, cobrindo despesas funerárias e assegurando tranquilidade e segurança para você e sua família.
                 </p>
@@ -32,7 +32,7 @@
 <section class="pt5 backgroundSectionBlack" id="1">
     <div class="row pt5">
         <div class="xl-6 tab-12 column">
-            <h2 class="h-add-bottom no-margin white-text ">Porque fazemos o que fazemos?</h2>
+            <h3 class="--h-add-bottom no-margin white-text ">Porque fazemos o que fazemos?</h3>
                             <p class="pt5 lead linecorrettext-just pmnone amarelo-text" style="text-align: justify;">
 Considerando que a nossa equipe, entende saúde como principal pilar da vida humana, sendo a soma dos impactos em diversas esferas da vida, por isso nos ocupamos em elaborar soluções, através de produtos e serviços, que de forma integrada ofertam: qualidade, eficiência, economia, saúde e qualidade de vida e nos permite promover a :	   </p><br>
                 <ul class="disc white-text linecorret text-aspas pl8">

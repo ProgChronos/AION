@@ -9,7 +9,7 @@
     BGSYellow('2151662920.jpg');
 ?>
 
-<h4 class="no-margin">Áreas de Atuação:</h4>
+<h3 class="no-margin">Áreas de Atuação:</h3>
 <p class="pt5 lead linecorret text-just pmnone fw300">
 Nós fornecemos <b>moedas securitizadas</b> e opções de <b>financiamento de safras</b>, além de <b>Ações e Debêntures</b> para diversificar seus investimentos. Oferecemos também <b>financiamento de equipamentos e insumos</b> e <b>antecipação de recebíveis</b> para otimizar seu fluxo de caixa. Nossos <b>planos de benefícios sociais</b> garantem suporte abrangente para funcionários e parceiros.<br><br>
 
@@ -25,7 +25,7 @@ Bclose();
 <section class="backgroundSectionBlack " id="1">
     <div class="row">
         <div class="xl-6 tab-12 column" > 
-        <h4 class="amarelo-text no-margin"> Porque fazemos o que fazemos?</h4>
+        <h3 class="amarelo-text no-margin"> Porque fazemos o que fazemos?</h3>
         <p class="pt5 lead linecorret text-just pmnone fw300 amarelo-text no-margin ">
         Nosso país é um dos produtores mundiais de Commodities, e sendo este segmento, o principal responsável pelo desenvolvimento econômico nacional, que gera insumos para agricultura, indústria e o comércio.<br><br>
 

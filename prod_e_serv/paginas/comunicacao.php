@@ -96,8 +96,7 @@ Modifico.
 
 BGSYellow('2148342090.jpg');
 ?>
-<h3>Porque fazemos o que fazemos?
-</h3>
+<h3 class="no-margin">Porque fazemos o que fazemos?</h3>
 <p class="pt5 lead linecorret text-just pmnone fw300">
 A comunicação como principal ferramenta de interação social é também imprescindível, para o estabelecimento de iniciativas sustentáveis. <br><br>
 

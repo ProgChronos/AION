@@ -7,8 +7,18 @@
     headerTop('images/EESG05.jpg','O tempo é o único verdadeiro capital de qualquer ser humano.<br> E é a única coisa que ele pode perder sem ter.','Thomas Edison');
 
 ?>
+<section>
+<nav class="menupagina">
+        <a class="pgn__num" href="#1">O que é? </a>
+        <a class="pgn__num" href="#2">"E" na sigla</a>
+        <a class="pgn__num" href="#3">Nossa visão</a>
+        <a class="pgn__num" href="#4">Empreendedorismo </a>
+        <a class="pgn__num" href="#5">Educação</a>
+</nav>
+</section>
 <section class="backgroundSectionYellow " id="1">
     <div class="row">
+        
         <div class="xl-6 tab-12 column" >
             <a href="images/EESG01.jpg" data-fancybox data-caption="">
                 <img  class="sombraCinza" src="images/EESG01.jpg" srcset="images/EESG01.jpg 1000w, images/EESG01.jpg 500w" sizes="(max-width: 1000px) 100vw, 1000px" alt="">
@@ -27,7 +37,7 @@
                     </div> 
 </section>
 
-<section class="backgroundSectionBlack " id="4">
+<section class="backgroundSectionBlack ">
     <div class="row row-x-center">
         <div class="column xl-6 md-12 ">
             <h3 class="h-add-bottom white-text"><i class="bi bi-tree"></i> ESG</h3>
@@ -47,7 +57,7 @@
         </section>
 
 
-<section class="backgroundSectionYellow " id="1">
+<section class="backgroundSectionYellow " id="2">
     <div class="row">
        <div class="xl-6 tab-12 column p0" > 
             <p class="lead no-margin pmnone" >
@@ -69,7 +79,7 @@
 
 
 
-<section class="backgroundSectionYellow p0 " id="1">
+<section class="backgroundSectionYellow p0 " id="3">
     <div class="row">
         <div class="xl-6 tab-12 column" >
             <?php imageUnicaFlex("images/EESG02.png","");?>
@@ -88,7 +98,7 @@
 </section>
 
 
-<section class="backgroundSectionYellow " id="1">
+<section class="backgroundSectionYellow " id="4">
     <div class="row">
         <div class="xl-6 tab-12 column" > 
             <h2 class="no-margin    "> Empreendedorismo E Cooperativismo</h2>
@@ -107,7 +117,7 @@
     </div> 
 </section>
 
-<section class="backgroundSectionYellow " id="1">
+<section class="backgroundSectionYellow " id="5">
     <div class="row">
 
         <div class="xl-6 tab-12 column" >

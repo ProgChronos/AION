@@ -9,7 +9,7 @@
     BGSYellow('2151307753.jpg');
 ?>
 
-<h4 class="text-just no-margin">A Aion oferece uma ampla gama de serviços financeiros e investimentos especializados para atender às suas necessidades em diversos setores.</h4>
+<h3 class="text-just no-margin">A Aion oferece uma ampla gama de serviços financeiros e investimentos especializados para atender às suas necessidades em diversos setores.</h3>
             <p class="pt5 lead linecorret text-just pmnone fw300">
 
                 <b>Serviços e Investimentos:</b> Disponibilizamos moedas securitizadas e opções de compra de mineradoras, além de ações e debêntures para diversificação de investimentos. Nosso portfólio inclui financiamento de materiais de construção e antecipação de recebíveis, além da compra de minerais brutos e minerais tratados lapidados. Oferecemos também 100% de financiamento de ativos minerais e financiamento de plantas para apoiar suas necessidades específicas.<br><br>

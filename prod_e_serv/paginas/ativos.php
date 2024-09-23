@@ -9,7 +9,7 @@
     BGSYellow('8641.jpg');
 ?>
 
-<h4 class="no-margin">Áreas de Atuação:</h4>
+<h3 class="no-margin">Áreas de Atuação:</h3>
 <p class="pt5 lead linecorret text-just pmnone fw300">
 Na Aion, oferecemos uma gama diversificada de serviços financeiros e soluções de investimento para atender às demandas de nossos clientes. Nossa expertise abrange <b>seguros de performance</b>, <b>recebíveis de contratos públicos</b> e <b>garantias bancárias</b> que proporcionam segurança e confiança nas operações financeiras.
 <br><br>
@@ -29,7 +29,7 @@ Bclose();
 <section class="backgroundSectionBlack " id="1">
     <div class="row">
         <div class="xl-6 tab-12 column" > 
-        <h4 class="amarelo-text no-margin"> Porque fazemos o que fazemos?</h4>
+        <h3 class="amarelo-text no-margin"> Porque fazemos o que fazemos?</h3>
         <p class="pt5 lead linecorret text-just pmnone fw300 amarelo-text no-margin ">
         Embora a ideia de que tudo pode ser convertido em dinheiro pareça mecanicista, reconhecemos que o dinheiro é a chave que abre portas para novas oportunidades e possibilita transições para novos espaços e começos.<br><br>
 

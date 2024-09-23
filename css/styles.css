@@ -2858,7 +2858,7 @@ td:last-child {
 }
 
 .text-display-title {
-	font-size     : var(--text-display-3);
+	font-size     : var(--text-xxxl);
 	line-height   : 1.0606;
 	letter-spacing: -0.012em;
 	color         : var(--color-text-dark);
@@ -6972,7 +6972,7 @@ form.form_contact input[type="button"]:hover{
 	}
 
 	.headerTop {
-        height: calc(32vh);
+        height: calc(60vh);
     }
 
 
@@ -7019,4 +7019,34 @@ form.form_contact input[type="button"]:hover{
 
 .p0{
 	padding: 0 !important;
+}
+
+
+.leao li {
+    list-style: none;
+    padding-left: 30px;
+    background: url('../img/icons/li/animal_15006209.svg') no-repeat left center;
+    background-size: 24px 24px;
+	background-position: 0 center; 
+
+  }
+
+
+  .menupagina {
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.menupagina a {
+    text-decoration: none; /* Remove o sublinhado */
+    color: #000; /* Cor do texto */
+    font-size: 16px; /* Tamanho da fonte */
+	transition: 0.3s;
+}
+
+.menupagina a:hover {
+    color: var(--color-1-light)
 }

@@ -9,7 +9,7 @@
     BGSYellow('ci02_1670963030.webp');
 ?>
 
-<h2 class="text-center no-margin">Áreas de Atuação:</h2>
+<h3 class="no-margin">Áreas de Atuação:</h3>
 
 <p class="pt5 lead linecorret text-just pmnone fw300">
 Promovemos atos e ações consolidadas, no que tange a criação,desenvolvimento, implantação, administração e gestão de novas tecnologias.<br><br>
@@ -48,10 +48,7 @@ Bclose();
 <?php
 BGSYellow('3857.jpg');
 ?>
-
-<h2 class="text-center no-margin">Áreas de Atuação:</h2>
-
-<p class="pt5 lead linecorret text-just pmnone fw300">
+<p class="lead linecorret text-just pmnone fw300">
 
 Porém, compreendemos que a nível de longo prazo, entendemos que o desenvolvimento de novas tecnologias está atrelada a oferta de uma <b>EDUCAÇÃO DE QUALIDADE</b> e ao <b>TRABALHO DECENTE E CRESCIMENTO ECONÔMICO.</b><br><br>
 
