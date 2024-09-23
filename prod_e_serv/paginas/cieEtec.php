@@ -52,7 +52,7 @@ BGSYellow('3857.jpg');
 
 Porém, compreendemos que a nível de longo prazo, entendemos que o desenvolvimento de novas tecnologias está atrelada a oferta de uma <b>EDUCAÇÃO DE QUALIDADE</b> e ao <b>TRABALHO DECENTE E CRESCIMENTO ECONÔMICO.</b><br><br>
 
-Por isto nos movemos a fim de propiciar oportunidades que estabeleçam a permanência de trabalhadores com elevado nível de qualificação profissional em nosso país, atuando em conjunto com <b>PAZ, JUSTIÇA E INSTITUIÇÕES EFICAZES</b> para a capacitação de trabalhadores para o mercado de trabalho a fim de alcançarmos as demais<b> OBJETIVOS PARA O DESENVOLVIMENTO SUSTENTÁVEL.</b>
+Por isto nos movemos a fim de propiciar oportunidades que estabeleçam a permanência de trabalhadores com elevado nível de qualificação profissional em nosso país, atuando em conjunto com <b>PAZ, JUSTIÇA E INSTITUIÇÕES EFICAZES</b> para a capacitação de trabalhadores para o mercado de trabalho a fim de alcançarmos os demais<b> OBJETIVOS PARA O DESENVOLVIMENTO SUSTENTÁVEL.</b>
 
 </p>
         </div>

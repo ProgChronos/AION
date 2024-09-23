@@ -19,7 +19,6 @@ function Servicos($Nome,$Subtitulo,$texto,$imagem,$link){
     $texto = "../../";
   }
 ?>
-<?php echo($urlSite) ?>
     <div class="testimonials__slide swiper-slide">
         <div class="testimonials__author">
         <a href='<?php echo($urlSite . $link) ?>'><img src="<?php echo($imagem)?>" alt="Author image" class="testimonials__avatar"></a>
