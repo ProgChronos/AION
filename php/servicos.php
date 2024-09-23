@@ -22,7 +22,7 @@ function Servicos($Nome,$Subtitulo,$texto,$imagem,$link){
 <?php echo($urlSite) ?>
     <div class="testimonials__slide swiper-slide">
         <div class="testimonials__author">
-        <a href='<?php echo($urlSite) ?><?php echo($link) ?>'><img src="<?php echo($imagem)?>" alt="Author image" class="testimonials__avatar"></a>
+        <a href='<?php echo($urlSite . $link) ?>'><img src="<?php echo($imagem)?>" alt="Author image" class="testimonials__avatar"></a>
             <cite class="testimonials__cite">
                 <strong><?php echo($Nome) ?></strong>
                 <span><?php echo($Subtitulo)?></span>
