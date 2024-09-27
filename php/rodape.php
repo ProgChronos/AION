@@ -1,3 +1,18 @@
+<?php 
+  $texto = null;
+  $urlSite  = 'http://' . $_SERVER['HTTP_HOST'];
+
+  //RETIRAR NA SITE FORA DA PRODUÇÃO
+  if($urlSite == "http://localhost"){
+    $urlSite = 'http://' . $_SERVER['HTTP_HOST'] . "/AION";
+  }else{
+    $urlSite  = 'http://' . $_SERVER['HTTP_HOST'];
+  }
+
+  if(isset($dentroDePasta)){
+    $texto = "../../";
+  }
+?>
  <!-- # footer 
         ================================================== -->
         <footer class="s-footer">
@@ -16,12 +31,12 @@
             <div class="column xl-3 lg-6 md-12 s-footer__block s-footer__site-links">
                     <h3>Aion</h3>
                     <ul class="link-list">
-                        <li><a href="index.html">Inicio</a></li>
-                        <li><a href="index.html">Instituto</a></li>
-                        <li><a href="about.html">Pessoas</a></li>
-                        <li><a href="contact.html">Conag</a></li>
-                        <li><a href="https://www.dreamhost.com/r.cgi?287326">Fiiados e Associados</a></li>
-                        <li><a href="blog.html">Contato</a></li>
+                        <li><a href="<?php echo($urlSite) ?>/">Inicio</a></li>
+                        <li><a href="<?php echo($urlSite) ?>/aion/instituto/aion.php">Instituto</a></li>
+                        <li><a href="<?php echo($urlSite) ?>/aion/instituto/pessoas.php">Pessoas</a></li>
+                        <li><a href="<?php echo($urlSite) ?>/aion/estrutura/conag.php">Conag</a></li>
+                        <li><a href="<?php echo($urlSite) ?>/aion/coorporativa/filiadosEassociados.php">Fiiados e Associados</a></li>
+                        <li><a href="<?php echo($urlSite) ?>/contato.php">Contato</a></li>
                     </ul>
                 </div>
                       
