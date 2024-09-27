@@ -14,7 +14,7 @@
             
                             <p class="lead" >
 Já imaginou, visitar os patrimônios históricos da humanidade e os monumentos mais vistos, desejados e idealizados do mundo moderno em um único local?<br><br>
-Aproximadamente em 21 km de praia privativa, há uma amostra de que o paraíso de fato existe. E como os brasileiros afirmam, que <mark>“Deus é brasileiro”</mark>, é provável que isto justifique os ato generosos, que dotam de encantos a BAHIA.<br><br>
+Aproximadamente em 21 km de praia privativa, há uma amostra de que o paraíso de fato existe. E como os brasileiros afirmam, que <mark>“Deus é brasileiro”</mark>, é provável que isto justifique os atos generosos, que dotam de encantos a BAHIA.<br><br>
 Essa terra abençoada com paisagens singulares, cultura diversa e envolvente, culinária marcante e um povo acolhedor, será o cenário perfeito, para o <b>LAND OF TOMORROW LIFE</b>.
                             </p>
                     </div> 

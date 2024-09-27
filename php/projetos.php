@@ -20,10 +20,10 @@
     
     projeto('images/hero-Inicial/Imagem6.png',"Xclusive Apart Hotel","https://xclusive.institutochronos.com/");
     
-    projeto('images/hero-Inicial/bi03_1671022582 (1).webp',"Condomínio Brasil Industria 4.0","http://localhost/Aion/projetos/paginas/condominioindustrial.php");
-    projeto('images/hero-Inicial/AnyConv.com__foto certa 10.fw_1670800520 (1).webp',"Dunes Resort Residence Premium","http://localhost/Aion/projetos/paginas/dunes.php");
-    projeto('images/hero-Inicial/ld01_1670734447.webp',"Land Of Tomorrow's Life","");
-    projeto('images/hero-Inicial/LIGHTROOM (4).jpg',"Chronos Palace Hotel","");
+    projeto('images/hero-Inicial/bi03_1671022582 (1).webp',"Condomínio Brasil Industria 4.0","/projetos/paginas/condominioindustrial.php");
+    projeto('images/hero-Inicial/AnyConv.com__foto certa 10.fw_1670800520 (1).webp',"Dunes Resort Residence Premium","/projetos/paginas/dunes.php");
+    projeto('images/hero-Inicial/ld01_1670734447.webp',"Land Of Tomorrow's Life","/projetos/paginas/landoftomorrow.php");
+    projeto('images/hero-Inicial/LIGHTROOM (4).jpg',"Chronos Palace Hotel","https://chronospalace.institutochronos.com");
     ?>
 </div>
 
@@ -79,8 +79,6 @@
   <a class="bda menu-bottom" href="#s3"></a>
   <a class="bda menu-bottom" href="#s4"></a>
   <a class="bda menu-bottom" href="#s5"></a>
-  
-
 </div>
 
 </div>

@@ -21,10 +21,6 @@ Na Aion, oferecemos uma ampla gama de soluções financeiras e serviços especia
 
 <?php
 Bclose();
-    
-
- 
-
 ?>
 
 <section class="backgroundSectionBlack " id="1">
@@ -34,18 +30,11 @@ Bclose();
         <p class="pt5 amarelo-text lead linecorret text-just pmnone fw300">A atividade comercial é a mais antiga do mundo, e ainda assim, continua a gerar oportunidades e a promover o desenvolvimento econômico, por isso, investimos nessa área, a fim de propiciar mais:<br>
         <p class="pt5 amarelo-text lead linecorret text-just pmnone fw300"><b class="white-text">Geração de emprego e renda: </b><br>
             Implica diretamente na erradicação da pobreza - através da abertura de novos postos de empregos e renda, para que as pessoas em situação em extrema vulnerabilidade social, tenham acesso a serviços básicos, a novas tecnologias e serviços financeiros, para a demonstração do seu potencial humano e o aprimorando de si e da sociedade.
-<br><br>
-        <b class="white-text">Capacitação de mão de mão de obra e desenvolvimento tecnológico: </b><br>
-            Realizar a capacitação e a reciclagem profissional de pessoas, independente de raça, etnia, deficiência, orientação sexual, identidade de gênero, territorialidade, cultura, religião e nacionalidade, a fim de assegurar a educação inclusiva, equitativa e de qualidade para fomentar a prosperidade pessoal, social, ambiental, econômica e tecnológica. <br>
-Aprimorar o desenvolvimento tecnológico da região, implica no desenvolvimento econômico e social além de fomentar investimentos para a inovação.</p>
+        <br><br>
+        <b class="white-text">Capacitação de mão de obra e desenvolvimento tecnológico: </b><br>
+            Realizar a capacitação e a reciclagem profissional de pessoas, independente de raça, etnia, deficiência, orientação sexual, identidade de gênero, territorialidade, cultura, religião e nacionalidade, a fim de assegurar a educação inclusiva, equitativa e de qualidade para fomentar a prosperidade pessoal, social, ambiental, econômica e tecnológica. <br> Aprimorar o desenvolvimento tecnológico da região, implica no desenvolvimento econômico e social além de fomentar investimentos para a inovação.</p>
+        
 
-<!-- <li class=" white-text ">E por fim, para custear a manutenção da nossa estrutura e investir em projetos sociais que partilhem do mesmo propósito , de forma direta ou indireta, ao <b class="white-text">INSTITUTO</b>, no Brasil e no Exterior.
-</li> -->
-
-      
-
-
-</p>
         </div>
         <div class="xl-6 tab-12 column" >
             <figure class="flexFigure">
@@ -54,5 +43,6 @@ Aprimorar o desenvolvimento tecnológico da região, implica no desenvolvimento 
         </div>        
     </div>
 </section>
+
 <?php 
     include_once("../../php/rodape.php");

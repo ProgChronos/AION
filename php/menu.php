@@ -13,6 +13,8 @@
     $texto = "../../";
   }
 ?>
+
+
 <header>
       <div class="container">
         <nav class="navigation">
@@ -523,7 +525,7 @@
                       </div>
                     </a>
 
-                    <a href="https://xclusive.institutochronos.com/" target="_blank">
+                    <a href="<?php echo($urlSite) ?>/manutencao.php" target="_blank">
                       <div class="item-list">
                         <div class="item-img">
                           <img src="<?php echo($texto)?>img/icons/Ativo 1@4x-152ff.svg" alt="Icon" />

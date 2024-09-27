@@ -4,7 +4,7 @@
     include_once("../../php/menu.php");
     include_once("../../php/functions/functionsAll.php");
 
-    headerTop('../images/header/6094.jpg','Nasce entre as Dunas um paraiso singular<br> Um lugar onde a expectativa de ter um sonho de torna ínfima comparado a realidade.<br> Aqui é , para você chamar de lar. ','Dunes Resort Residence Premium');
+    headerTop('../images/header/6094.jpg','Nasce entre as Dunas um paraíso singular<br> Um lugar onde a expectativa de ter um sonho se torna ínfima comparada a realidade.<br> Aqui é , para você chamar de lar. ','Dunes Resort Residence Premium');
 
 ?>
 
@@ -17,9 +17,9 @@
                             Estar em casa e ter a tranquilidade da vista do mar, não é mais só um sonho!
 
 <br><br>
-                            Ter a oportunidade de trabalhar e apreciar das janelas do seu escritório DUNES RESORT COMERCIAL PREMIUM, o pôr do sol ceder espaço, para o brilho da lua e estrelas, que convidam a celebrar a vida entre amigos em um happy hour.
+                            Ter a oportunidade de trabalhar e apreciar das janelas do seu escritório <b>DUNES RESORT COMERCIAL PREMIUM</b>, o pôr do sol ceder espaço, para o brilho da lua e estrelas, que convidam a celebrar a vida entre amigos em um happy hour.
 
-Meditar e se exercitar, apreciando a diversidade da criação divina, no DUNES RESORT PARK RESERVE.
+Meditar e se exercitar, apreciando a diversidade da criação divina, no <b>DUNES RESORT PARK RESERVE</b>.
 <br><br>
 Viajar e só se preocupar, em não esquecer a câmera, para registar o momento, pois roupas, cama, mesa e banho, móveis e carro na garagem, já estão garantidos, para tornar sua estadia mais feliz.
 
