@@ -36,7 +36,7 @@ include_once("php/menu.php");
 
 <div class="row width-narrower pagemain">
          <div class="column xl-12">
-         <h2 class="text-display-title">Vamos para um novo passo a sua empresa...</h2>
+         <h2 class="text-display-title text-center">Conte conosco para dar um novo passo na sua empresa!</h2>
 
              <div class="row">
                  <div class="column xl-6 md-12 contact-cta">     
